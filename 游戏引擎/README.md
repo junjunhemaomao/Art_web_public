@@ -17,8 +17,8 @@
 - [GBWPowerfulHit ](./Unreal_Engine/GBWPowerfulHit/GBWPowerfulHit%20.md)
 - [蓝图学习](./Unreal_Engine/蓝图/蓝图1.md)
 - [母材质](./Unreal_Engine/材质/材质1.md)
-
 - [只狼动作手游](./Unreal_Engine/只狼动作手游/只狼动作手游.md)
+- [UE5新功能介绍与《恶人谷游戏场景》案例演示](./Unreal_Engine/恶人谷游戏场景UE5/恶人谷游戏场景.md)
 
 ## Shader图形学
 - [The Unity Shaders Bible](./Shder图形学/README.md)
