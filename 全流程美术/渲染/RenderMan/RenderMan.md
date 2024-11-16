@@ -25,3 +25,8 @@ IT工具还可以导入外部的图片及序列帧
 ![alt text](./image-10.png)  
 可以打开sequence control播放序列图   
 ![alt text](./image-11.png)   
+可以保存catalog及session。也就是场景渲染的状态   
+![alt text](./image-12.png)   
+Catalog选项里有关于渲染图切换显示的提示，主要区别是在不在AOV分层图里切换显示      
+如果准确选择AOV某个通道，再pagedown,pagaeup,会在不同的catalog图之间同通道切换     
+![alt text](./image-13.png)  
