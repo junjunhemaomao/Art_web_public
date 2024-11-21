@@ -30,3 +30,5 @@ IT工具还可以导入外部的图片及序列帧
 Catalog选项里有关于渲染图切换显示的提示，主要区别是在不在AOV分层图里切换显示      
 如果准确选择AOV某个通道，再pagedown,pagaeup,会在不同的catalog图之间同通道切换     
 ![alt text](./image-13.png)  
+窗口适配渲染图等操作 ctrl+F   
+![alt text](./image-14.png)   
