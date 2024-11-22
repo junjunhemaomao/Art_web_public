@@ -8,7 +8,7 @@
 ![alt text](./image-2.png)   
 在渲染图点击，可以选择物体  
 ![alt text](./image-3.png)  
-1:1显示  
+1:1显示。快捷键HOME键     
 ![alt text](./image-4.png)   
 扫描对比。把一张图标注为背景，然后切换到前景图，可以鼠标移动进行扫描对比   
 ![alt text](./image-5.png)   
@@ -32,3 +32,52 @@ Catalog选项里有关于渲染图切换显示的提示，主要区别是在不�
 ![alt text](./image-13.png)  
 窗口适配渲染图等操作 ctrl+F   
 ![alt text](./image-14.png)   
+Gamma等图像操作，可以分析渲染的一些信息  
+![alt text](./image-15.png)   
+view——looks模式可以显示更多图像信息，用于分析等   
+![alt text](./image-16.png)   
+view——rencent bucket markers 可以切换是否显示渲染扩散  
+![alt text](./image-17.png)   
+V键显示渲染的采样，内存使用等数据   
+![alt text](./image-18.png)   
+IT工具栏中，这里显示的是存在的时间，不是渲染时长   
+![alt text](./image-19.png)   
+renderman的像素采样的次数，由前后渲染的梯度差来决定，所以每个像素的渲染采样次数是不同的。区别于arnold等渲染引擎   
+## 采样算法
+一个比较经济的采样算法，类似神经网络的梯度下降，梯度变化不明显了，就停止采样   
+![alt text](./image-20.png)   
+![alt text](./image-21.png)   
+如果值为0，将使用固定采样，而不是自适应采样。   
+数值越小，采样质量约苛刻，消耗更多，效果更好。   
+在数值栏右键，可以重设为默认值      
+![alt text](./image-22.png)   
+线程设置。没有特殊原因不用动。   
+-2是预留2个线程，可以用来选择移动等操作。batch渲染时，就没有预料多余线程操作  
+![alt text](./image-23.png)   
+简单总结：  
+**Pixel variance**是一个采样继续深入的信号器  
+**Max Samples**是采样精度控制的上限  
+两者共同决定动态采样的最终效果  
+总体而言，全局自适应采样存在一个边际效应递减的现象。后续的渲染成本要提高很多才有略微改善  
+最好在后续用局部采样进行改善  
+![alt text](./image-24.png)   
+渲染时间的递增    
+![alt text](./image-25.png)  
+最小采样值会影响所有像素 
+尤其对于特别稀碎的物体，如果最小采样不够，就会被略掉   
+![alt text](./image-26.png)   
+![alt text](./image-27.png)   
+应该适当提高最小采样值  
+![alt text](./image-28.png)  
+渐进式渲染，如果取消，只适合最终渲染的时候用   
+![alt text](./image-29.png)   
+此处设置决定渲染刷新的方式和单位大小   
+![alt text](./image-30.png)   
+预览渲染大场景时的一个优化值，O值不做优化   
+![alt text](./image-31.png)   
+此处是自适应采样的算法，目前默认是官方认为比较好的算法    
+![alt text](./image-32.png)   
+且可以单独为场景的物体设置不同的采样阈值Pixel variance    
+![alt text](./image-33.png)   
+在每个物体的renderman选项里，修改 **relativePixelVariance**值，这个值会和全局自适应值相乘    
+![alt text](./image-34.png)    
