@@ -80,4 +80,41 @@ renderman的像素采样的次数，由前后渲染的梯度差来决定，所�
 且可以单独为场景的物体设置不同的采样阈值Pixel variance    
 ![alt text](./image-33.png)   
 在每个物体的renderman选项里，修改 **relativePixelVariance**值，这个值会和全局自适应值相乘    
-![alt text](./image-34.png)    
+![alt text](./image-34.png)   
+渲染像素间的过渡算法，可以保持高斯模糊不变    
+![alt text](./image-35.png)   
+## 批量渲染   
+批量文件的形式   
+本地/网络，Maya渲染序列/导出为RIB后执行的序列  
+要发送渲染任务到renderman，需要把Spool Style改为RIB   
+否则就用Maya Batch    
+![alt text](./image-36.png)  
+图片格式是在AOV里设置   
+![alt text](./image-37.png)   
+如果勾选降噪，会额外再输出一套降噪过的序列图   
+![alt text](./image-38.png)   
+命名规则.点击眼睛可以预览命名的样例      
+![alt text](./image-39.png)   
+官方给出的命名标识符.输入框右键，也会出现提示      
+[String tokens in RfM](https://rmanwiki-26.pixar.com/space/RFM26/21037296/String+tokens+in+RfM)   
+发送渲染序列，开始渲染   
+![alt text](./image-40.png)   
+渲染日志.level是代表缩略图精度  
+![alt text](./image-41.png)  
+可以在浏览器打开。主要用于渲染单帧进行分析     
+![alt text](./image-42.png)   
+实时分析报表   
+![alt text](./image-43.png)
+## 渲染引擎 
+皮克斯光线追踪引擎    
+![alt text](./image-45.png)   
+### 反弹次数
+**Max Indirect Bounces** 的值是间接反射的上限。  
+其中又分成镜面反射和漫反射反弹两个值来分别控制  
+![alt text](./image-44.png)  
+### 采样细节  
+采样方式.bxdf是较为精简智能的  
+![alt text](./image-46.png)   
+切换为manual是手动，可以更详控制每个通道的采样，类似Arnold      
+![alt text](./image-47.png)   
+Light Samples控制直接光照的采样质量   
