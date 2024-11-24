@@ -105,7 +105,7 @@ renderman的像素采样的次数，由前后渲染的梯度差来决定，所�
 ![alt text](./image-42.png)   
 实时分析报表   
 ![alt text](./image-43.png)
-## 渲染引擎 
+## 正向渲染引擎 
 皮克斯光线追踪引擎    
 ![alt text](./image-45.png)   
 ### 反弹次数
@@ -113,8 +113,43 @@ renderman的像素采样的次数，由前后渲染的梯度差来决定，所�
 其中又分成镜面反射和漫反射反弹两个值来分别控制  
 ![alt text](./image-44.png)  
 ### 采样细节  
+在比较合理精细化的操作情况下，应该对相应的通道层进行不同的采样。而不是提高全局采样      
 采样方式.bxdf是较为精简智能的  
 ![alt text](./image-46.png)   
 切换为manual是手动，可以更详控制每个通道的采样，类似Arnold      
-![alt text](./image-47.png)   
-Light Samples控制直接光照的采样质量   
+![alt text](./image-47.png)  
+Light Samples控制直接光照的采样质量    
+官方推荐Light Samples和BXDF Samples保持一样  
+![alt text](./image-49.png)  
+采样值通道细节修改对比的情况.改善了直接光照的采样。实际操作会体验更细腻    
+![alt text](./image-50.png)   
+提高间接光照采样   
+![alt text](./image-52.png)   
+间距光照产生的噪点最多，对比最明显    
+![alt text](./image-51.png)   
+影响间接光照效率的俄罗斯赌盘算法.会在触发采样深度的时候随机去掉采样   
+Threshold的值是采样光线被干掉的概率。会影响变化的梯度       
+![alt text](./image-53.png)  
+manual方式主要对间接光线采样进行了拆分   
+如果间接采样的区域有曝光，可以减小Lumainance值   
+![alt text](./image-54.png)   
+## PxrVCM双向追踪渲染    
+适用于大量间接光照的场景   
+![alt text](./image-57.png)       
+![alt text](./image-56.png)   
+![alt text](./image-55.png)    
+焦散效果   
+简单焦散的话，可以勾选      
+![alt text](./image-58.png)   
+一个很重要的前提是要把主光源开启 tace light paths    
+![alt text](./image-61.png)
+如果要物理精确，需要切换渲染引擎   
+焦散受限于光线的反弹次数，需要把反弹次数给大  
+![alt text](./image-59.png)   
+影响焦散的锐利程度.值越大越模糊      
+![alt text](./image-60.png)  
+## PxrUnifiled   
+为动画片等大场景渲染而准备   
+![alt text](./image-62.png)   
+使用反弹距离和次数控制大场景的渲染   
+![alt text](./image-63.png)   
