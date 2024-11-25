@@ -7,6 +7,7 @@
 - [Stable Diffusion](./AI工具/StableDiffusion/StableDiffusion.md)
 - [Pytorch](./AI工具/pytorch/Pytorch.md)
 - [MockingBird](./AI工具/MockingBird/MockingBird.md)
+- [Hugging Face](./AI工具/HuggingFace/HuggingFace.md)
 ## Maya Python游戏与影视编程指南
 - [5.Maya中面向对象编程](./MayaPython/Maya中面向对象编程/Maya中面向对象编程.md)
 ## 字体
