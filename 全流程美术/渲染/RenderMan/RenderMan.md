@@ -142,7 +142,7 @@ manual方式主要对间接光线采样进行了拆分
 简单焦散的话，可以勾选      
 ![alt text](./image-58.png)   
 一个很重要的前提是要把主光源开启 tace light paths    
-![alt text](./image-61.png)
+![alt text](./image-61.png)   
 如果要物理精确，需要切换渲染引擎   
 焦散受限于光线的反弹次数，需要把反弹次数给大  
 ![alt text](./image-59.png)   

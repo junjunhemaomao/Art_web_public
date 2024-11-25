@@ -12,6 +12,7 @@
 - [(Gumroad) Danny Mac - Sculpting The Head](./建模/建模1.md)   
 - [Creating a AAA Character from Scratch  A Nameless Samurai](./建模/建模2.md)
 - [VideoGame_Character_Creation_Katon_Callaway](./建模/VideoGame_Character_Creation_Katon_Callaway/KatonCallaway.md)
+- [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemale/HardSurfaceFantasyFemale.md)
 ### 写实次时代
 - [源赖光](./建模/源赖光/源赖光.md)   
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   
