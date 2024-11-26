@@ -1,23 +1,17 @@
 # 插件工具
 
-## 说明
-> 以Maya为平台，长期积累Maya为主体的工具集，是3D美术务实且有远见的策略。
-#### [为什么不选择Blender?](为什么不选择Blender.md)   
+## Maya脚本工具
+> 脚本工具大部分是**python2.7**版本，适用**Maya2020**版本以下。   
+> Maya2020及以上支持**python3**, 语法略有出入，部分脚本在改写后提供。  
 
-**Python**给予了Maya极大的创造性，定制性，可以根据具体业务做出强大的工具集，极大加快制作。   
-#### [作为美术，我如何入门python?](作为美术，我如何入门python？.md)     
+[建模插件合集](./Maya脚本工具/建模/建模插件.md)   
+[绑定插件合集](./Maya脚本工具/绑定/绑定资源.md)   
+[动画资源及插件](./Maya脚本工具/动画插件/动画资源插件.md)  
+[Zoo Tools](./Maya脚本工具/ZooTools/ZooTools.md)   
+[Maya安装 **MS Tools** 工具时，**UserSetup** 配置文件的相关问题](./Maya脚本工具/Maya_AutoLoad_Plugin/Plugin说明.md)
 
-脚本工具大部分是**python2.7**版本，适用**Maya2020**版本以下。   
-Maya2020及以上支持**python3**, 语法略有出入，部分脚本在改写后提供。
+## GitHub资源
+[manhha00](https://gist.github.com/manhha00)
 
-
-## 1、Maya脚本工具
-[Maya脚本工具](./Maya脚本工具/README.md)
-
-
-## 2、3ds max脚本工具
-[3ds max脚本工具](./3dsMax脚本工具/README.md)
-
-
-## 3、安装常见问题
-[安装常见问题1](安装常见问题1.md)
+## 3dsMax脚本工具
+[自动光滑组工具](./3dsMax脚本工具/光滑组工具/光滑组工具.md)
