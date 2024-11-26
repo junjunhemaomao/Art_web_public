@@ -1,6 +1,5 @@
 # 游戏开发
-## 经典日式RPG
-![alt text](./image.png) 
+## 经典日式RPG   
 ###  学习资料
 - [Unity 2.5D Turn-Based RPG - EARLY ACCESS](./JRPG/JRPG学习/JRPG.md)
 - [最终幻想系列](./JRPG/最终幻想系列/最终幻想系列.md)
