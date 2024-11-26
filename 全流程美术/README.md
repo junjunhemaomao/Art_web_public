@@ -15,7 +15,7 @@
 ### 写实次时代
 - [源赖光](./建模/源赖光/源赖光.md)   
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   
-- [南宋武士顶级影视角色制作案例教学](./建模/南宋武士顶级影视角色制作案例教学/南宋武士顶级影视角色制作案例教学.md)   
+- [南宋武士顶级影视角色制作案例教学](./建模/南宋武士/南宋武士.md)   
 ### 软件工具
 - 小而美的强悍建模软件——Silo
 - DAZ Studio的素材导入及设置
