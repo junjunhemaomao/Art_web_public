@@ -55,10 +55,11 @@
 ![](./animation.png)  
 ### 软件配置及工具
 -  [如何配置Maya,让动画制作更顺手](./动画/动画配置设置/动画配置设置.md)
--  AnimBot,动画制作不可或缺的神级插件
+-  [AnimBot](./动画/Animbot/Animbot.md)
 -  [动画控制器快捷拾取工具 Picker](./动画/Picker/Picker.md)
 -  [绑定资源及插件](/插件工具/Maya脚本工具/动画插件/动画资源插件.md) 
--  [In-Between Tool ](./动画/InBetween/InBetween.md)
+-  [In-Between Tool ](./动画/InBetween/InBetween.md)   
+-  [动画层](./动画/动画层/动画层.md)
 ### 动画库
 - [批量下载所有的Mixamo免费动画](./动画/批量下载所有的Mixamo免费动画.md)
 - Maya动作库的使用和积累
