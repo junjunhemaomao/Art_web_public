@@ -27,7 +27,7 @@
 使当前帧接近前一帧或者后一帧，可以控制接近的幅度   
 ![alt text](./image-5.png) 
 ### 动画曲线调整
-![alt text](./image-11.png)
+![alt text](./image-11.png)   
 可以调整动画曲线的幅度
 ### 线性插值
 ![alt text](./image-12.png)

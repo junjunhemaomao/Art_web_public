@@ -1,5 +1,5 @@
 # 游戏引擎
-> 包含的内容
+> 立足引擎使用，形成专题性的解决方案
 
 ## Unity 3D  
 - [Unity API 记录学习](./Unity3D/API/Unity_API_详解.md)
@@ -22,4 +22,4 @@
 - [UE5新功能介绍与《恶人谷游戏场景》案例演示](./Unreal_Engine/恶人谷游戏场景UE5/恶人谷游戏场景.md)
 
 ## Shader图形学
-- [The Unity Shaders Bible](./Shder图形学/README.md)
+- [The Unity Shaders Bible](./The_Unity_Shaders_Bible/The_Unity_Shaders_Bible.md)
