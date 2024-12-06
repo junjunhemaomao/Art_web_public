@@ -8,7 +8,7 @@ const domain = "https://codefather.cn";
 const tags = ["游戏美术", "原画", "建模", "技术美术"];
 
 export default defineConfig({
-  title: "游戏美术知识库",
+  title: "游戏开发知识库",
   description: "终身学习，终身成长。",
   port: 18000, // 添加端口配置
   head: [
