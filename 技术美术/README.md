@@ -10,6 +10,7 @@
 - [Hugging Face](./AI工具/HuggingFace/HuggingFace.md)
 ## Maya Python游戏与影视编程指南
 - [5.Maya中面向对象编程](./MayaPython/Maya中面向对象编程/Maya中面向对象编程.md)
+- [Maya的自定义用户UI](./Maya的UI/PySide.md)
 ## 字体
 - [制作及修改字体](./制作及修改字体/制作及修改字体.md)
 
