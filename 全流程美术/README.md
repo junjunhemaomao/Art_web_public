@@ -52,6 +52,7 @@
 - Maya动作库的使用和积累
 ### 动画制作案例
 - [英雄联盟英雄回城动画制作案例](./动画/AnimatingaRecallforGames/AnimatingaRecallforGames.md)
+- [R.J格斗动画网络班](./动画/R.J格斗动画网络班/R.J格斗动画网络班.md)
 ***
 ## 布料
 ### MD服装制作
