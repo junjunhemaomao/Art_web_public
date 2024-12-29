@@ -2,6 +2,8 @@
 > 涵盖美术制作的全流程。对中英文学习资料的广泛学习，并形成流程化，工具化的总结和思考。  
 > 深度二次开发，形成大量工具集。
 ## 2D
+### 绘画
+- [卡拉瓦乔](./绘画/卡拉瓦乔/卡拉瓦乔.md)
 ### Spine
 - [AE和Spine制作MOBA游戏动效](./2D动效/AE和Spine制作MOBA游戏动效/AE和Spine制作动效.md)   
 ***
@@ -18,6 +20,10 @@
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   
 - [南宋武士顶级影视角色制作案例教学](./建模/南宋武士/南宋武士.md)   
 ***
+## 材质贴图
+### Substance Painter
+- [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md) 
+
 ## 绑定
 ### 全身绑定
 - [自动化脚本绑定——Youtube博主视频案例](./绑定/PY_Rigging/PY_Rigging.md) 
