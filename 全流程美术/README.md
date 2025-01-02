@@ -56,6 +56,7 @@
 ### 动画库
 - [批量下载所有的Mixamo免费动画](./动画/批量下载所有的Mixamo免费动画.md)
 - Maya动作库的使用和积累
+- [Game Anim: Video Game Animation Explained](./动画/GameAnim2/GameAnim2.md)
 ### 动画制作案例
 - [英雄联盟英雄回城动画制作案例](./动画/AnimatingaRecallforGames/AnimatingaRecallforGames.md)
 - [R.J格斗动画网络班](./动画/R.J格斗动画网络班/R.J格斗动画网络班.md)
