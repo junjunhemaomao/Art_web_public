@@ -11,10 +11,10 @@
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  
 - DAZ Studio的素材导入及设置
 ### 风格化
-- [(Gumroad) Danny Mac - Sculpting The Head](./建模/建模1.md)   
-- [Creating a AAA Character from Scratch  A Nameless Samurai](./建模/建模2.md)
-- [VideoGame_Character_Creation_Katon_Callaway](./建模/VideoGame_Character_Creation_Katon_Callaway/KatonCallaway.md)
-- [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemale/HardSurfaceFantasyFemale.mdY)
+- [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemaleVictory3D/HardSurfaceFantasyFemale.md) 
+- [Hyperreal 3D Character Creation by Şefki Ibrahim](./建模/Hyperreal3DCharacter/Hyperreal3DCharacter.md)   
+- [Male Character Creation - Complete Game Pipeline](./建模/MaleCharacterCreation/MaleCharacterCreation.md)
+- [VideoGame Character Creation - Katon Callaway](./建模/VideoGameCCKatonCallaway/VideoGameCCKatonCallaway.md)
 ### 写实次时代
 - [源赖光](./建模/源赖光/源赖光.md)   
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   

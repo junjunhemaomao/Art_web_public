@@ -1,5 +1,5 @@
 # Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D 
-![alt text](image.png)   
+![alt text](./image.png)   
 
 ## 设置及准备
 fasdfaf  
