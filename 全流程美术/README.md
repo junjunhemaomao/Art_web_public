@@ -11,6 +11,7 @@
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  
 - DAZ Studio的素材导入及设置
 ### 风格化
+- [类守望先锋风格化游戏角色](./建模/类守望先锋风格化游戏角色/类守望先锋.md)
 - [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemaleVictory3D/HardSurfaceFantasyFemale.md) 
 - [Hyperreal 3D Character Creation by Şefki Ibrahim](./建模/Hyperreal3DCharacter/Hyperreal3DCharacter.md)   
 - [Male Character Creation - Complete Game Pipeline](./建模/MaleCharacterCreation/MaleCharacterCreation.md)
