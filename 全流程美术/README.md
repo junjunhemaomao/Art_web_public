@@ -70,8 +70,8 @@
 ***
 ## 特效
  ### Unity 3D特效
--  动作特效1
--  场景特效1
+-  [Maya特效](./特效/Maya特效/maya特效.md)
+-  [Phoenix for Maya 流体篇](./特效/PhoenixforMayaLiquid/PhoenixforMayaLiquid.md)
 ***
 ## 毛发  
 - [依托管状模型制作毛发——仿迪斯尼方案](./毛发/Tube_hair_gen/Tube_hair_gen说明.md) 
