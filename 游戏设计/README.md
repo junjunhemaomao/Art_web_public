@@ -20,4 +20,5 @@
 - [Articy:Draft 3](./ArticyDraft3/ArticyDraft3.md)
 - [开源故事工具Twine](./Twine/Twine.md)
 ## 关卡设计
-[CGMA - Level Design for Games](./CGMA/CGMA_LevelDesignforGames.md)
+- [CGMA - Level Design for Games](./CGMA/CGMA_LevelDesignforGames.md)
+- [快速搭建游戏战斗系统](./快速搭建游戏战斗系统/快速搭建游戏战斗系统.md)

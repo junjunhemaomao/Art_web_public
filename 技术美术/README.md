@@ -1,15 +1,18 @@
-# 技术学习
+# AI工具及编程
 
-> 本文作者：君君
-## AI工具  
+## 通用AI 
 - [MetaGPT](./AI工具/MetaGPT/MetaGPT.md)
-- [Martin Wattenberg: Models within models](./AI工具/伯克利AI课/LLM.md)
-- [Stable Diffusion](./AI工具/StableDiffusion/StableDiffusion.md)
-- [Pytorch](./AI工具/pytorch/Pytorch.md)
-- [MockingBird](./AI工具/MockingBird/MockingBird.md)
+- [DeepSeek](./AI工具/DeepSeek/deepseek.md)
 - [Hugging Face](./AI工具/HuggingFace/HuggingFace.md)
-- [Hunyuan3D](./AI工具/Hunyuan3D/Hunyuan3D.md)
-## Maya Python游戏与影视编程指南
+- [Pytorch](./AI工具/pytorch/Pytorch.md)
+## AIagent
+- [Martin Wattenberg: Models within models](./AI工具/伯克利AI课/LLM.md)
+## 音频处理AI
+- [MockingBird](./AI工具/MockingBird/MockingBird.md)
+## 图形及模型AI 
+- [Hunyuan3D](./AI工具/Hunyuan3D/Hunyuan3D.md)  
+- [Stable Diffusion](./AI工具/StableDiffusion/StableDiffusion.md)
+## Maya Python
 - [5.Maya中面向对象编程](./MayaPython/Maya中面向对象编程/Maya中面向对象编程.md)
 - [Maya的自定义用户UI](./Maya的UI/PySide.md)
 ## 数据资产

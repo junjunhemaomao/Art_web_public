@@ -30,8 +30,4 @@ export default [
         text: "项目实践",
         link: '/项目实践/'
     },
-    {
-        text: "作者",
-        link: '/作者/'
-    },
 ] as NavItem[];
