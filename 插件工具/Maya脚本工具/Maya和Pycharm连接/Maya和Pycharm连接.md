@@ -19,14 +19,15 @@
 - `Autodesk_EULA.pdf`  # Autodesk 的最终用户许可协议（End User License Agreement）
 
 
-在 Maya 2019 及更早版本中，并没有 devkitBase 文件夹，只有 devkit 文件夹。这是因为 Autodesk 在 Maya 2022 之后才引入 devkitBase 结构。在 Maya 2019 及之前，devkit 目录就是 Maya 开发工具包的根目录。    
+在 Maya 2019 及更早版本中，并没有 devkitBase 文件夹，只有 devkit 文件夹。这是因为 Autodesk 在 Maya 2022 之后才引入 devkitBase 结构。   
+在 Maya 2019 及之前，devkit 目录就是 Maya 开发工具包的根目录。    
 解压后把文件覆盖到路径：C:\Program Files\Autodesk\Maya2019    
 
 ### 设置代码补全
 路径：  
 C:\Program Files\Autodesk\Maya2019\devkit\other\pymel\extras\completion\py   
 需要添加一个路径，删掉默认路径  
-![alt text](./image-3.png)
+![alt text](./image-3.png)   
 测试。可以看到已经有代码自动补全了   
 ![alt text](./image-4.png)   
 
