@@ -26,6 +26,8 @@
 ## 材质贴图
 ### Substance Painter
 - [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md) 
+### MARI
+- [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari扩展包.md)
 
 ## 绑定
 ### 全身绑定
@@ -87,3 +89,4 @@
 ***
 ## 合成
 - [TRex lookDev and lighting with Maya and Arnold](./合成/TRexlookDev/TRexlookDev.md)  
+- [Nuke](./合成/nuke/nuke.md)
