@@ -41,7 +41,7 @@
 - [面部口型分析](./绑定/面部动画/面部动画.md) 
 - [Maya卡通嘴部绑定——脚本方式](./绑定/riggingJawPython/rigging_the_jaw_with_python_in_maya.md) 
 - [《神秘海域》中的游戏面部绑定——顽皮狗技术总监方案](./绑定/游戏角色绑定/游戏角色绑定.md) 
-- 北美影视动画面部绑定方案
+- [北美影视动画面部绑定方案](./绑定/maya多套混合变形绑定/maya多套混合变形绑定.md)
 - [MirrorSDK](./绑定/MirrorSDK/MirrorSDK.md)
 ### 特定技术方案 
 - [软IK系统](./绑定/软IK系统/软IK系统.md) 
