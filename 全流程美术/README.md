@@ -8,7 +8,10 @@
 - [Toon Boom Storyboard Pro ](./分镜/ToonBoomStoryboard.md)
 ### Spine
 - [AE和Spine制作MOBA游戏动效](./2D动效/AE和Spine制作MOBA游戏动效/AE和Spine制作动效.md)   
-***
+## Houdini
+- [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)
+- [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)
+
 ## 建模
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  
 - DAZ Studio的素材导入及设置
@@ -69,6 +72,7 @@
 ## 布料
 ### MD服装制作
 - [nCloth Techniques for Characters in Maya](./布料/nClothTechniquesforCharacters/nClothTechniquesforCharacters.md)
+- [Maya Ncloth](./布料/Ncloth/Ncloth.md)
 ### 布料模拟
 - [nCloth Techniques for Characters in Maya](./布料/nClothTechniquesforCharacters/nClothTechniquesforCharacters.md)
 ***
@@ -79,6 +83,7 @@
 ***
 ## 毛发  
 - [依托管状模型制作毛发——仿迪斯尼方案](./毛发/Tube_hair_gen/Tube_hair_gen说明.md) 
+- [Maya Nhair](./毛发/Nhair/Nhair.md)
 - Peregrine Yeti 
 - gs-curvetools
 ***
