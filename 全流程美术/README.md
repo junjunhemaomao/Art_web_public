@@ -89,6 +89,7 @@
 ***
 ## 渲染
 - [Aronld渲染说明](./渲染/Arnold/Arnold1.md)  
+- [Arnold SSS 皮肤渲染及设置](./渲染/Arnold/Arnold%20次表面散射材质/Arnold%20次表面散射材质.md)
 - [皮克斯渲染器RenderMan](./渲染/RenderMan/RenderMan.md)
 - [Marmoset Toolbag渲染](./渲染/MarmosetToolbag/MarmosetToolbag.md)
 ***
