@@ -10,7 +10,9 @@
 - [AE和Spine制作MOBA游戏动效](./2D动效/AE和Spine制作MOBA游戏动效/AE和Spine制作动效.md)   
 ## Houdini
 - [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)
-- [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)
+- [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)  
+- [Unity使用Houdini的HDA指南](./Houdini/AssetforUnity/AssetforUnity.md)
+- [Houdini PCG for Unity](./Houdini/PCGforUnity/PCGforUnity.md)
 
 ## 建模
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  
