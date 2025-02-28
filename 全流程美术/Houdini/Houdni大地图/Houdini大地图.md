@@ -1,4 +1,4 @@
-# 使用Houdini创建JRPG大地图地形的节点指南
+# Houdini创建大地图指南
 
 在Houdini中创建JRPG风格的大地图地形时，可以使用一系列节点来生成地形、添加细节、进行纹理处理等。以下是详细的节点流程和功能介绍。
 
@@ -126,3 +126,28 @@
 <https://www.youtube.com/playlist?list=PL5V9qxkY_RnI4olJ4uKJ2eKSyVqqRMW7r> 
 ## Texturing Landscapes for Games
 <https://www.youtube.com/watch?v=Rq971v4SqNo&list=PL5V9qxkY_RnIWmjzJOpkmQ4_TSP8jSXgy&index=1>
+<https://www.youtube.com/watch?v=BiX3Xpi_fYQ>
+<https://www.youtube.com/watch?v=_YGdUkDETkQ>
+
+## 一些有用的参考文件 
+- <https://github.com/SeanPuller/Unity-Terrain-HDAs>   
+- <https://github.com/Baldrax/Houdini_TaleSpire_Terrain_Generation_Toolset>      
+- <https://github.com/Atanvard/HoudiniTerrain>      
+- <https://github.com/sdao/houdini-diamondsquare>     
+- <https://github.com/yidaogucheng/OpenWorldTerrainToolset>    
+- <https://github.com/masseydigital/houdini-pdg-terrain-generation>    
+
+
+
+
+
+
+##
+<https://www.bilibili.com/video/BV1ix411f7f3?spm_id_from=333.788.videopod.episodes&vd_source=9cdd98cc53d87aeb4190d2743832662b&p=3>
+heightfields   
+layering noises and distortion    
+distortion    
+simplex stretch,  curl twirl   
+combining noises and distortion     
+
+

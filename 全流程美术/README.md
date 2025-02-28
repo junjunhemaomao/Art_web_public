@@ -8,11 +8,21 @@
 - [Toon Boom Storyboard Pro ](./分镜/ToonBoomStoryboard.md)
 ### Spine
 - [AE和Spine制作MOBA游戏动效](./2D动效/AE和Spine制作MOBA游戏动效/AE和Spine制作动效.md)   
+
 ## Houdini
-- [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)
-- [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)  
-- [Unity使用Houdini的HDA指南](./Houdini/AssetforUnity/AssetforUnity.md)
+### 通用知识
+- [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)  
+- [Unity使用Houdini的HDA指南](./Houdini/AssetforUnity/AssetforUnity.md)  
+### 工具及扩展  
+- [HDA安装方法](/插件工具/Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
+- [Houdini脚本工具](/插件工具/Houdini脚本工具/Houdini脚本工具/Houdini脚本工具.md)
+- [Houdni GAME DEV TOOL SET](./Houdini/GAMEDEVTOOLSET/GAMEDEVTOOLSET.md)
+### 程序化建模  
+- [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)   
+### 大世界PCG  
 - [Houdini PCG for Unity](./Houdini/PCGforUnity/PCGforUnity.md)
+- [PCGforUnreal](./Houdini/PCGforUnreal/PCGforUnreal.md)
+- [Houdni大地图](./Houdini/Houdni大地图/Houdini大地图.md)
 
 ## 建模
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  

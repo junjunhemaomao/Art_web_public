@@ -12,6 +12,10 @@
 - [Maya保存工具架设](./Maya脚本工具/保存Maya工具架设置/保存Maya工具架设置.md)
 - [Maya和Pycharm连接](./Maya脚本工具/Maya和Pycharm连接/Maya和Pycharm连接.md)
 
+## Houdini 脚本工具
+- [HDA安装方法](./Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
+- [Houdini脚本工具](./Houdini脚本工具/Houdini脚本工具/Houdini脚本工具.md)
+
 ## GitHub资源
 - [manhha00](https://gist.github.com/manhha00)
 
