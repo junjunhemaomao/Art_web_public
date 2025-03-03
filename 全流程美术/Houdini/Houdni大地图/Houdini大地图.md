@@ -125,9 +125,9 @@
 ## Massive Terrains with PDG
 <https://www.youtube.com/playlist?list=PL5V9qxkY_RnI4olJ4uKJ2eKSyVqqRMW7r> 
 ## Texturing Landscapes for Games
-<https://www.youtube.com/watch?v=Rq971v4SqNo&list=PL5V9qxkY_RnIWmjzJOpkmQ4_TSP8jSXgy&index=1>
-<https://www.youtube.com/watch?v=BiX3Xpi_fYQ>
-<https://www.youtube.com/watch?v=_YGdUkDETkQ>
+- <https://www.youtube.com/watch?v=Rq971v4SqNo&list=PL5V9qxkY_RnIWmjzJOpkmQ4_TSP8jSXgy&index=1>   
+- <https://www.youtube.com/watch?v=BiX3Xpi_fYQ>   
+- <https://www.youtube.com/watch?v=_YGdUkDETkQ>   
 
 ## 一些有用的参考文件 
 - <https://github.com/SeanPuller/Unity-Terrain-HDAs>   
@@ -149,5 +149,8 @@ layering noises and distortion
 distortion    
 simplex stretch,  curl twirl   
 combining noises and distortion     
-
-
+hand-made terrain Masks
+masking by feature
+masking with noise
+erosion
+mask by object 
