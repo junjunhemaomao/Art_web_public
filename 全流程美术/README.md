@@ -12,6 +12,7 @@
 ## Houdini
 ### 通用知识
 - [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)  
+- [Houdini和pycharm通信](./Houdini/Houdini和pycharm通信/Houdini和pycharm通信.md)
 - [Unity使用Houdini的HDA指南](./Houdini/AssetforUnity/AssetforUnity.md)  
 ### 工具及扩展  
 - [HDA安装方法](/插件工具/Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
@@ -19,6 +20,7 @@
 - [Houdni GAME DEV TOOL SET](./Houdini/GAMEDEVTOOLSET/GAMEDEVTOOLSET.md)
 ### 程序化建模  
 - [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)   
+- [WFC程序化建筑](./Houdini/Houdini程序化建筑/Houdini程序化建筑.md)  
 ### 大世界PCG  
 - [Houdini PCG for Unity](./Houdini/PCGforUnity/PCGforUnity.md)
 - [PCGforUnreal](./Houdini/PCGforUnreal/PCGforUnreal.md)
