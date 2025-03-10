@@ -19,9 +19,10 @@
 - [Blender批量导出](./数据资产/从Blender批量自动导出fbx/从Blender批量自动导出fbx.md)
 ## 字体
 - [制作及修改字体](./制作及修改字体/制作及修改字体.md)
-
 ## 编程
 - [正则表达式学习](./正则表达式/正则表达式学习.md)
 - [C#学习](./CSharp/CSharp学习.md)
+## Lua
+- [Lua安装及配置](./Lua/Lua安装/Lua安装及配置.md)
 ## 硬件
 - [IMac G5 改造](./硬件/ImacG5改造/imacG5.md)
