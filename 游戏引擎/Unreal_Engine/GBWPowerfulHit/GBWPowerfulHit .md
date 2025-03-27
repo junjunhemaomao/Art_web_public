@@ -36,3 +36,5 @@
 
 #### 案例分析
 在许多成功的动作游戏中，如《鬼泣》、《猎天使魔女》等，玩家可以通过快速移动技能（如闪避、瞬移等）来取消攻击后摇，实现更流畅的战斗体验。
+
+<https://www.youtube.com/watch?v=P6JyUbkAWgQ&list=PLCZ0WflcfPv4ETvNj4IsnDJU9Aws04cUn&index=4>
