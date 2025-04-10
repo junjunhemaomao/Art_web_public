@@ -24,7 +24,10 @@
 ### 大世界PCG  
 - [Houdini PCG for Unity](./Houdini/PCGforUnity/PCGforUnity.md)
 - [PCGforUnreal](./Houdini/PCGforUnreal/PCGforUnreal.md)
-- [Houdni大地图](./Houdini/Houdni大地图/Houdini大地图.md)
+- [Houdni大地图](./Houdini/Houdni大地图/Houdini大地图.md)   
+
+## 地形
+- [World Creator](./地形/WorldCreator/WorldCreator.md)
 
 ## 建模
 - [如何制作紧凑的灯光贴图](./UV/UV1.md)  
