@@ -2,13 +2,12 @@
 ## 经典日式RPG   
 ###  学习资料
 - [Unity 2.5D Turn-Based RPG - EARLY ACCESS](./JRPG学习/JRPG.md)
-- [最终幻想系列](./JRPG榜样/最终幻想系列/最终幻想系列.md)  
 
 ###  设定及策划  
 剧情和任务相关
 - [DQ3任务流程](./JRPG/任务流程/DQ3任务流程.md)
 - [任务流程致敬版](./JRPG/任务流程致敬版/任务流程致敬版.md)
-- [剧情](./JRPG/剧情/剧情.md) 
+- [剧情](./JRPG/剧情/剧情大纲.md)
 - [NPC功能设计](./JRPG/NPC/NPC功能设计/NPC功能设计.md)
 - [NPC列表](./JRPG/NPC/NPC列表/NPC列表.md)
 ---
