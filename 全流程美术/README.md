@@ -42,6 +42,7 @@
 - [源赖光](./建模/源赖光/源赖光.md)   
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   
 - [南宋武士顶级影视角色制作案例教学](./建模/南宋武士/南宋武士.md)   
+- [流浪骑士](./建模/流浪骑士/流浪骑士.md)
 ***
 ## 材质贴图
 ### Substance Painter
@@ -98,9 +99,11 @@
 -  [Maya特效](./特效/Maya特效/maya特效.md)
 -  [Phoenix for Maya 流体篇](./特效/PhoenixforMayaLiquid/PhoenixforMayaLiquid.md)
 ***
-## 毛发  
+## 毛发 
+- [XGen 毛发宝典](./毛发/Xgen_HFF/Xgen_HFF.md)
 - [依托管状模型制作毛发——仿迪斯尼方案](./毛发/Tube_hair_gen/Tube_hair_gen说明.md) 
-- [Maya Nhair](./毛发/Nhair/Nhair.md)
+- [超真实毛发](./毛发/超真实毛发/超真实毛发.md)
+- [Maya Nhair](./毛发/Nhair/Nhair.md) 
 - Peregrine Yeti 
 - gs-curvetools
 ***
