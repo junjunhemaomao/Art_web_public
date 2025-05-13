@@ -5,10 +5,10 @@ import footer from "./footer";
 
 const author = "君君";
 const domain = "https://codefather.cn";
-const tags = ["游戏美术", "原画", "建模", "技术美术"];
+const tags = ["游戏美术", "原画", "建模", "技术美术", "电影"];
 
 export default defineConfig({
-  title: "游戏开发知识库",
+  title: "知识库",
   description: "终身学习，终身成长。",
   port: 18000, // 添加端口配置
   head: [
@@ -20,7 +20,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "游戏美术, 原画, 建模, ZBrush, 次时代, 特效, UI,技术美术, 项目, 游戏公司, 求职",
+          "游戏美术, 原画, 建模, ZBrush, 次时代, 特效, UI,技术美术, 项目, 电影，游戏公司, 求职",
       },
     ],
     // 百度统计

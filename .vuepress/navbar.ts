@@ -5,6 +5,10 @@ export default [
         text: "全流程美术",
         link: "/全流程美术/",
     },
+       {
+        text: "电影",
+        link: '/电影/'
+    },
     {
         text: "游戏引擎",
         link: '/游戏引擎/'
