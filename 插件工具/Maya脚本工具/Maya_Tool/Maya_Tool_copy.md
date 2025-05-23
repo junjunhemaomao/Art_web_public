@@ -37,7 +37,10 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 表面吸附建模   
 `2019`,`2023`
 ### 拓扑
-- **[QuadRemesher_1.0.1](https://exoside.com/)**  
+- **[QuadRemesher_1.0.1](https://exoside.com/)**   
+自动拓扑  
 安装路径：C:\ProgramData\Autodesk\ApplicationPlugins   
 `2019`,`2023`
-
+- **[ziRail 0.9.7](https://vertexture.org/)**    
+手动拓扑  
+`2019`,`2023`
