@@ -78,9 +78,9 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 - **[Braid Maker V1.0](https://unplugtools.gumroad.com/l/BraidMaker)**    
 `2019` 
 
-
-
-<https://truongcgartist.gumroad.com/l/crabrig?layout=profile>
+## Cloth
+- **[qualoth-5.1-3](https://qualoth.com/)**  
+`2023`
 
 ## UV Tool  
 - **[UDIM Packer 1.6.1](https://formjune.gumroad.com/l/arrange_by_udims)**  
