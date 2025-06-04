@@ -10,6 +10,18 @@ Maya 2022 (Python 3)
 ### 模型清理
 - **[Cleanup Useless Faces](https://tamaraorlova.gumroad.com/l/CleanUpUselessFaces)**       
 `2019`
+- **[Mirror Tool - v2.0](https://klaudio2u.gumroad.com/l/FrKTc)**       
+`2019`,`2023` 
+- **[SHAPESBrush](https://github.com/IngoClemens/SHAPESBrush)**       
+Tool for modifying and smoothing of meshes in Autodesk Maya.    
+正确安装后，Maya 主菜单栏的 “Modify” 菜单会出现 “SHAPES Brush Tool” 菜单项。  
+激活该工具后，点击网格。若网格未被选中，工具会自动进行选择。   
+`2019`,`2023` 
+- **[speedBend for Maya v1.07](https://im3djoe.gumroad.com/l/speedBend?layout=profile)**       
+`2019`,`2023` 
+- **[speedCut for Maya v1.69](https://im3djoe.gumroad.com/l/speedCut)**       
+`2019`,`2023` 
+
 
 ### 特殊建模
 - **[Braid and Spiral](https://www.highend3d.com/maya/script/braid-and-spiral-pyside2-for-maya)**     
@@ -29,19 +41,17 @@ Maya 2022 (Python 3)
 ModIt is a script for Maya that will be your companion during your HardSurface Modeling in Maya!    
 ModIt will support and speed up your HardSurface Workflow with the automating of simple and repetitive task like Primitives creation, Duplicate, Complex Selection, Bevels, etc...    
 `Maya 2022 to Maya 2026`   
-
 - **[rapidPlace for Maya v2.75](http://im3djoe.com)**  
 表面吸附建模   
 `2019`,`2023`   
 - **[CreasePlus_2-8-20](https://waywo.gumroad.com/l/CreasePlus)**    
 `2019`  
-
 - **[DcBoolManager](https://eltarbos.gumroad.com/l/LMlq)**    
-`2019`  
+`2019` 
 - **[HardMesh_2.37](https://www.hard-mesh.com/)**    
+`2019` 
+- **[instCut v1.1](https://im3djoe.gumroad.com/l/instCut)**    
 `2023` 
-
-
 
 ### 拓扑
 - **[QuadRemesher_1.0.1](https://exoside.com/)**   
@@ -51,9 +61,10 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 - **[ziRail 0.9.7](https://vertexture.org/)**    
 手动拓扑  
 `2019`,`2023`
-- **[ jQuadCloth](https://www.rrcg.cn/thread-16766291-1-8.html)**    
-服饰雕刻自动拓扑   
-`Maya 2016 - 2020`
+- **[jQuadCloth 0.20](https://jacopos.gumroad.com/l/Qeoz)**    
+服饰雕刻自动拓扑  
+安装路径：e.g: C:\Program Files\Autodesk\Maya20##\bin\plug-ins    
+`Maya 2016 - 2024`
 
 ### 光滑组
 - **[AutoSmoothingGroups](https://gumroad.com/l/AutoSG)**    
@@ -119,5 +130,8 @@ blend shape 权重
 
 
 
-## 布料 
-Qualoth
+## 动画  
+- **[aTools](https://camiloalan.wixsite.com/atoolswebsite)**    
+`2019`
+- **[aTools_python3](https://github.com/MKlimenko/aTools_python3)**    
+`2023`
