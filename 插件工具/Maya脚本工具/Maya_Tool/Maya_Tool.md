@@ -7,6 +7,9 @@ switch into 2 for backward compatibility (most of scripts still not compatible w
 
 Maya 2022 (Python 3) 
 ## Modeling Tool
+### 模型清理
+- **[Cleanup Useless Faces](https://tamaraorlova.gumroad.com/l/CleanUpUselessFaces)**       
+`2019`
 
 ### 特殊建模
 - **[Braid and Spiral](https://www.highend3d.com/maya/script/braid-and-spiral-pyside2-for-maya)**     
@@ -29,7 +32,17 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 
 - **[rapidPlace for Maya v2.75](http://im3djoe.com)**  
 表面吸附建模   
-`2019`,`2023`
+`2019`,`2023`   
+- **[CreasePlus_2-8-20](https://waywo.gumroad.com/l/CreasePlus)**    
+`2019`  
+
+- **[DcBoolManager](https://eltarbos.gumroad.com/l/LMlq)**    
+`2019`  
+- **[HardMesh_2.37](https://www.hard-mesh.com/)**    
+`2023` 
+
+
+
 ### 拓扑
 - **[QuadRemesher_1.0.1](https://exoside.com/)**   
 自动拓扑  
@@ -73,7 +86,7 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 - **Poly_To_Hair**  
 `2019`,`2023`
 - **[The Groomer's Tool v12.04](https://www.nobraintools.com/)**  
-2023没安装成功.它是为 Maya 2024 编译的。它不适用于其他版本。  
+2023没安装成功.它是为 Maya 2024 编译的。不适用于其他版本。  
 `2024`
 - **[Braid Maker V1.0](https://unplugtools.gumroad.com/l/BraidMaker)**    
 `2019` 
