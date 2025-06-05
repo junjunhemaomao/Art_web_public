@@ -32,8 +32,13 @@ Tool for modifying and smoothing of meshes in Autodesk Maya.
 `2019`,`2023`
 - **[Envit](https://wzx.gumroad.com/l/envit2)**   
 撒点的脚本   
-`2022+`
-### 硬表面
+
+- **[Cable Script v2.5](https://wzx.gumroad.com/l/Cable)**   
+样条线做电线   
+`v1.0 for Maya 2016 / 2017`
+
+
+
 - **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**  
 硬表面建模   
 `Maya 2017-2025`
@@ -102,9 +107,21 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 - **[Braid Maker V1.0](https://unplugtools.gumroad.com/l/BraidMaker)**    
 `2019` 
 
+## Material_Tool  
+- **[ViewportIt for Maya](https://wzx.gumroad.com/l/viewportIt)**   
+`Maya 2017 to 2023`
+- **[ShadeIt 2.0](https://wzx.gumroad.com/l/CTlFp)**   
+`Maya 2018 to Maya 2026`
+
+
 ## Cloth
 - **[qualoth-5.1-3](https://qualoth.com/)**  
 `2023`
+
+
+
+
+
 
 ## UV Tool  
 - **[UDIM Packer 1.6.1](https://formjune.gumroad.com/l/arrange_by_udims)**  
