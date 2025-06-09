@@ -10,17 +10,13 @@ Maya 2022 (Python 3)
 ### 模型清理
 - **[Cleanup Useless Faces](https://tamaraorlova.gumroad.com/l/CleanUpUselessFaces)**       
 `2019`
-- **[Mirror Tool - v2.0](https://klaudio2u.gumroad.com/l/FrKTc)**       
-`2019`,`2023` 
-- **[SHAPESBrush](https://github.com/IngoClemens/SHAPESBrush)**       
-Tool for modifying and smoothing of meshes in Autodesk Maya.    
-正确安装后，Maya 主菜单栏的 “Modify” 菜单会出现 “SHAPES Brush Tool” 菜单项。  
-激活该工具后，点击网格。若网格未被选中，工具会自动进行选择。   
-`2019`,`2023` 
-- **[speedBend for Maya v1.07](https://im3djoe.gumroad.com/l/speedBend?layout=profile)**       
-`2019`,`2023` 
-- **[speedCut for Maya v1.69](https://im3djoe.gumroad.com/l/speedCut)**       
-`2019`,`2023` 
+- **[(Maya) Batch Exporter 1.1](https://www.artstation.com/marketplace/p/R1Jm/maya-batch-exporter-1-1)**       
+Export multiple selected meshes into its own "FBX" or "OBJ" files.    
+`2019`
+- **[Smart Harden Edges By UV](https://www.artstation.com/marketplace/p/MwP6/smart-harden-edges-by-uv-maya-script)**       
+Smart Harden Edges By UV is the extended version of standard Soften/Harden Edges by Texture Borders tool,
+which helps to avoid unnecessary harden edges seams particularly on rounded and organic shapes.   
+`Maya 2016, 2017, 2018, 2019, 2020`
 
 
 ### 特殊建模
@@ -36,11 +32,21 @@ Tool for modifying and smoothing of meshes in Autodesk Maya.
 - **[Cable Script v2.5](https://wzx.gumroad.com/l/Cable)**   
 样条线做电线   
 `v1.0 for Maya 2016 / 2017`
+- **[Mirror Tool - v2.0](https://klaudio2u.gumroad.com/l/FrKTc)**       
+`2019`,`2023` 
+- **[SHAPESBrush](https://github.com/IngoClemens/SHAPESBrush)**       
+Tool for modifying and smoothing of meshes in Autodesk Maya.    
+正确安装后，Maya 主菜单栏的 “Modify” 菜单会出现 “SHAPES Brush Tool” 菜单项。  
+激活该工具后，点击网格。若网格未被选中，工具会自动进行选择。   
+`2019`,`2023` 
+- **[speedBend for Maya v1.07](https://im3djoe.gumroad.com/l/speedBend?layout=profile)**       
+`2019`,`2023` 
+- **[speedCut for Maya v1.69](https://im3djoe.gumroad.com/l/speedCut)**       
+`2019`,`2023` 
 
 
-
-- **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**  
-硬表面建模   
+### 硬表面建模
+- **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**    
 `Maya 2017-2025`
 - **[Modit_3.0](https://wzx.gumroad.com/l/ModIt3)**  
 ModIt is a script for Maya that will be your companion during your HardSurface Modeling in Maya!    
