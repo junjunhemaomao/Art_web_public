@@ -109,7 +109,14 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 
 ## Material_Tool  
 - **[ViewportIt for Maya](https://wzx.gumroad.com/l/viewportIt)**   
-`Maya 2017 to 2023`
+`2023`   
+AND Need at least Mtoa 2.0 to work!  
+- **[From Substance Painter to Maya - 0.0.1 for Maya](https://www.highend3d.com/maya/script/from-substance-painter-to-maya-for-maya)**     
+This tool is used to automatically connect Substance Painter textures to Maya.   
+`2019`   
+- **[Material Manager 5.2.0 for Maya](https://www.highend3d.com/maya/script/material-manager-for-maya)**     
+The Material Manager is an all-in-one interface for quickly interacting with scene materials.    
+`2019` 
 - **[ShadeIt 2.0](https://wzx.gumroad.com/l/CTlFp)**   
 `Maya 2018 to Maya 2026`
 
@@ -117,7 +124,8 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 ## Cloth
 - **[qualoth-5.1-3](https://qualoth.com/)**  
 `2023`
-
+- **[Carbon](https://numerion-software.com/solutions/products/carbon-for-maya)**  
+`2023`
 
 
 
