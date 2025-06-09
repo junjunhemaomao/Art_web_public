@@ -13,11 +13,18 @@ Maya 2022 (Python 3)
 - **[(Maya) Batch Exporter 1.1](https://www.artstation.com/marketplace/p/R1Jm/maya-batch-exporter-1-1)**       
 Export multiple selected meshes into its own "FBX" or "OBJ" files.    
 `2019`
+- **[Smart Harden/Soften edge python script for Maya](https://www.artstation.com/marketplace/p/YBz6y/smart-harden-soften-edge-python-script-for-maya-angle-and-uv-border-supported)**       
+此脚本由荷兰布雷达应用科学大学（BUAS）游戏开发专业一年级视觉艺术方向学生 Pavel Kotorov 编写    
+点击第 1/3 个按钮：当相邻面的夹角小于输入值时，对应边将被软化；若夹角大于或等于输入值，则保持或变为硬边。  
+点击第 2 个按钮：可将 UV 壳外部边界（即 UV 接缝）的所有边强制设为硬边。   
+第 3 个按钮：自动执行前两个按钮的组合操作    
+` 2019`, ` 2023`   
 - **[Smart Harden Edges By UV](https://www.artstation.com/marketplace/p/MwP6/smart-harden-edges-by-uv-maya-script)**       
-Smart Harden Edges By UV is the extended version of standard Soften/Harden Edges by Texture Borders tool,
-which helps to avoid unnecessary harden edges seams particularly on rounded and organic shapes.   
-`Maya 2016, 2017, 2018, 2019, 2020`
-
+核心优势   
+可选择性忽略同一 UV 壳内的 UV 边界边    
+允许设置角度阈值，仅对大于该角度的 UV 边界边进行硬化处理    
+当角度设为 0 时，效果等同于标准工具    
+` 2019`, ` 2023` 
 
 ### 特殊建模
 - **[Braid and Spiral](https://www.highend3d.com/maya/script/braid-and-spiral-pyside2-for-maya)**     
