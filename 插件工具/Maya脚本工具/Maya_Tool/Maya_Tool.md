@@ -83,6 +83,16 @@ ModIt will support and speed up your HardSurface Workflow with the automating of
 服饰雕刻自动拓扑  
 安装路径：e.g: C:\Program Files\Autodesk\Maya20##\bin\plug-ins    
 `Maya 2016 - 2024`
+- **[Quad Patcher for Maya](https://3dartistdad.gumroad.com/l/SmYAp)**   
+用于快速用四边形修补 3D 模型孔洞，    
+或对 Marvelous Designer 导出的网格进行拓扑重建，支持边界边、面、挤出三种模式    
+这个插件的办法很好控制，且容易理解   
+`2019`,`2023`
+- **[EdgeLoopEven for Maya v1.04](https://im3djoe.gumroad.com/l/edgeLoopEven)**  
+https://im3djoe.gumroad.com/    
+搭配上面拓扑操作的必要工具。  
+平均化点的插件      
+`2019`,`2023`
 
 ### 光滑组
 - **[AutoSmoothingGroups](https://gumroad.com/l/AutoSG)**    
