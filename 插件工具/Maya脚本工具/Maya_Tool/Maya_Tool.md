@@ -183,3 +183,32 @@ blend shape 权重
 `2019`
 - **[aTools_python3](https://github.com/MKlimenko/aTools_python3)**    
 `2023`
+
+### 动画帧处理工具 
+- **[oaSmoothKeys 1.1.0 for Maya](https://www.highend3d.com/maya/script/oasmoothkeys-for-maya)**    
+让动画曲线的极端毛刺平滑   
+- Select at least 3 keys in the Graph Editor.
+- Execute 'oaSmoothKeys'.
+- Repeat as necessary.    
+`2019`
+- **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
+还没钱买。看起来It also works with all Advanced Skeleton and RRM characters.
+`Maya from 2018 to 2025`
+
+
+
+## 资产库管理  
+- **[Maya - Module Manager](https://robertjoosten.gumroad.com/l/maya-module-manager?layout=profile&recommended_by=search)**    
+在 Maya 中通过切换模块的开启或关闭来管理模块，可显示常规信息并便于访问模块文件和代码。  
+还包含 Maya 模块安装程序，您可以使用此 MEL 脚本在 Maya 中轻松分发模块  
+使用方法： 
+1. 模块可通过切换复选框 激活 / 停用。用户还会看到关于模块的其他信息，包括版本、Maya 版本、平台和语言。
+2. 默认情况下，管理器仅显示与当前运行的 Maya 版本兼容的模块；切换复选框后，可编辑与该文件关联的所有模块。
+3. 点击文件夹图标可使用关联应用程序打开模块文件，必要时可手动编辑文件 。
+4. 直接点击模块文件名旁的文件夹按钮  可管理文件本身，这将在关联应用程序中打开文件。
+5. 点击文件夹按钮  可直接进入模块代码文件夹，这将在浏览器中打开模块内容的文件夹。
+6. 此管理器会编辑磁盘上的模块文件，若用户无编辑权限，模块仍会显示，但控件将被禁用，无法编辑文件
+没安装成功   
+`2019`
+- **[Maya : Keyframe Reduction](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
+`2019`
