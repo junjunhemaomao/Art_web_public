@@ -60,7 +60,38 @@ Houdini 的两个数字资产 (HDA) 可用于将高度场转换为其他数据�
 可以将每个切片的UV对应在0-1区间里   
 ![alt text](./image-13.png)    
 输出各种贴图，并且可以切分输出    
-![alt text](./image-14.png)   
+![alt text](./image-14.png)  
+#### polydeform 
+polydeform可让你将一个模型扭曲成另一个模型的大致形状    
+![alt text](./image.png)    
+#### Voxel Mesh SOP
+Voxel Mesh SOP 是常见 VDB 的快捷方式，可从“多边形”>“转换 VDB”工作流程进行转换。   
+它还具有一些额外功能，例如投影到原始网格以及扩大/腐蚀体积。   
+实际使用比较像减面同时多边形溶解过渡   
+![alt text](./image-1.png)    
+####  Ambient Occlusion SOP   
+AO工具   
+![alt text](./image-2.png)   
+####  delete small disconnected pieces
+删除小部件 
+![alt text](./image-15.png)    
+####  Thicken SOP 
+智能挤压     
+适用于扫描模型，如果用传统挤出，会有很多未知错误   
+![alt text](./image-16.png)   
+####  Soften Normal
+可以相比传统normal节点，可以根据UV切线来做软硬过渡   
+![alt text](./image-17.png)   
+####  Axis Align SOP 
+对齐轴。是一个快速可以把物体世界坐标位置归零的工具   
+![alt text](./image-18.png)   
+####  Mark Seams
+Mark Seams SOP 是一种实验工具，旨在加速 UV 接缝生成过程 
+可能版本迭代，被淘汰了，没找到对应的
+#### Procedural Edge Loops/ Group Expand/Contract
+将选择的点或者线存入Group中后，可以扩展修改选择的范围   
+版本更新，找不到准确对应的
+
 ### UV工具
 #### 自动UV 
 相比较传统自动UV工具，这个工具可以控制切割的块数和边缘破碎程度，可以获得很好的整片的UV   
@@ -79,6 +110,27 @@ UV Visualize SOP 是一种方便的工具，可以快速可视化网格中的 UV
 它可以找出哪些 UV 壳在其几何体或 UV 空间中拥有相似的表面积，并堆叠相同或近似的 UV 壳   
 ![alt text](./image-7.png)   
 ### 纹理工具
+#### Games Baker ROP 
+一个简化的贴图烘焙工具
+![alt text](./image-19.png)   
+在out里设置高低模  
+#### Quick Material SOP
+就是一个快速给贴图和材质的节点     
+#### Simple Baker
+![alt text](./image-20.png)   
+在obj里的简单烘焙  
+#### lmposter Textures
+可以创建纹理表，用于在游戏引擎中伪造 3D 对象   
+![alt text](./image-21.png)   
+![alt text](./image-22.png)   
+#### Mesh Tiler
+#### Normal Color
+#### Normal Combine
+#### Normal Invert
+#### Normal Levels
+#### Normal Map from Greyscale
+#### Normalize Normal
+#### Normal Rotate
 
 ### 实时效果工具 
 
