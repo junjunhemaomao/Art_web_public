@@ -51,6 +51,9 @@ Tool for modifying and smoothing of meshes in Autodesk Maya.
 - **[speedCut for Maya v1.69](https://im3djoe.gumroad.com/l/speedCut)**       
 `2019`,`2023` 
 
+- **[Circulator 1.0.4](https://www.highend3d.com/maya/script/circulator-for-maya)**     
+核心作用是解决 Maya 中 “将多边形组件快速调整为圆形” 的需求。它通过计算选择组件的几何特征（如边界框、法线方向等），自动将顶点重新定位，形成规则圆形      
+`2019` 
 
 ### 硬表面建模
 - **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**    
@@ -165,8 +168,9 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 - **[vrnAutoMap_V1.2](https://www.artstation.com/blogs/vrntech/n7n7/maya-mel-quick-uvs-script-vrnautomap)**    
 硬表面自动分UV      
 `Maya 2017 Update 4 或 2018` 
-
-
+- **[Nightshade_UV](https://www.highend3d.com/maya/script/nightshade-uv-editor-for-maya)**    
+一个比较老牌的UV工具集     
+`Maya 2019` 
 
 ## Rigging Tool  
 - **[rampWeights](https://github.com/IngoClemens/rampWeights)**  
