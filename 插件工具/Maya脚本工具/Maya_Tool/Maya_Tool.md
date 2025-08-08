@@ -147,16 +147,6 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 `Maya 2018 to Maya 2026`
 
 
-## Cloth
-- **[qualoth-5.1-3](https://qualoth.com/)**  
-`2023`
-- **[Carbon](https://numerion-software.com/solutions/products/carbon-for-maya)**  
-`2023`
-
-
-
-
-
 ## UV Tool  
 - **[UDIM Packer 1.6.1](https://formjune.gumroad.com/l/arrange_by_udims)**  
 `2019`,`2023`
@@ -173,32 +163,108 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 `Maya 2019` 
 
 ## Rigging Tool  
-- **[rampWeights](https://github.com/IngoClemens/rampWeights)**  
-blend shape 权重   
-`2023`
+### 绑定工具
+- **[MotionConversionAdv_v1.2.2](https://www.cgjoy.com/thread-239020-1-1.html)**    
+3dsMax Bip 绑定 转 Maya 绑定  
+`2019`
+- **[Rigging Helpers](https://www.cgjoy.com/thread-239020-1-1.html)**    
+3dsMax Bip 绑定 转 Maya 绑定  
+`2019。很可能与 Maya 2022 + 版本存在兼容性问题`
 - **[jh_proceduralRibbon](https://animprops.com/product/advance-ribbon-rig-tool/)**    
 程序化飘带绑定   
 `2019`
-
+### 权重工具 
+- **[rampWeights](https://github.com/IngoClemens/rampWeights)**  
+blend shape 权重   
+`2023`
 
 
 ## 动画  
+
+### 综合工具集
 - **[aTools](https://camiloalan.wixsite.com/atoolswebsite)**    
 `2019`
 - **[aTools_python3](https://github.com/MKlimenko/aTools_python3)**    
 `2023`
+- **[animBot](https://animbot.ca/home/)**    
+是 Maya 动画师最酷、最强大的工具集，超过 90% 的全功能。 AAA 游戏工作室都在使用   
+`2023`
+- **[ml_tools](https://github.com/morganloomis/ml_tools)**    
+Animation and Rigging tools for Autodesk Maya     
+`2023`
+- **[animPolish_BASIC_v1.24](https://friggingawesome.gumroad.com/l/animpolish-basic?layout=profile)**    
+一款面向动画和模拟艺术家的 Maya deformation（变形）工具集，专注于突破绑定（rig）、布料 / 毛发模拟的限制，提供一系列专业级工具用于优化动画细节、修复模拟问题，提升镜头最终效果。      
+`Maya 2016+，其中 2016-2021 版本经过全面测试，2022+ 版本支持主要功能（部分小工具可能存在问题`
+
+### 拾取器
+- **[Dreamwall Picker](https://camiloalan.wixsite.com/atoolswebsite)**    
+`Maya 2017 (or higher)`
+
+### 显示工具集
+- **[Blue Pencil 2](https://zurbrigg.com/blue-pencil-2)**    
+Advanced Grease Pencil for Maya   
+`2019`
+- **[ColorKey PySide2 2.0.0 for Maya ](https://www.highend3d.com/maya/script/colorkey-pyside2-for-maya)**    
+可用于为时间轴上的关键帧标记（ ticks ）设置颜色。   
+通过它能轻松对工作中使用的关键帧类型进行分类   
+例如，可将所有黄金关键姿势设为一种颜色，过渡帧设为另一种颜色，保持帧设为第三种颜色；   
+也可以按角色部位分类    
+`Maya 2017+ `  
+- **[DuBlast_2.1.0](https://rxlaboratorio.org/rx-tool/dublast-for-maya/)**    
+一款为 Maya 打造的增强型播放预览（Playblast）工具   
+没有安装成功   
+`2019`
+- **[Quick_Isolate_v.1.04](https://khaledhussein.gumroad.com/l/falvt?layout=profile)**    
+Isolate your controls to make your animation easier   
+该工具是 Maya 中用于控件管理的辅助工具，通过创建选择集、编辑元素、控制可见性，帮助用户在复杂场景中快速隔离特定控件，提升操作效率（例如动画师聚焦特定控制器、建模师隐藏无关控件等）     
+有一些错误，不能颜色切换，需要进一步改动   
+`2019`,`2023`
+- **[FCM Hider](https://francerchiara.gumroad.com/l/FCM_Hider)**    
+Isolate your controls to make your animation easier   
+This tool allows you to hide controls, meshes, groups and polys into sets with intuitives icons to focus in diferents part of the body while animating      
+`Maya 2022`
+
+### IK&FK 工具 
+- **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
+还没钱买。看起来It also works with all Advanced Skeleton and RRM characters.  
+`Maya from 2018 to 2025`
+
+### SpaceSwitching(空间转换)工作流 工具集 
+- **[World-Space Conversion](https://camiloalan.wixsite.com/atoolswebsite)**    
+`Maya 2017 (or higher)`
+
 
 ### 动画帧处理工具 
 - **[oaSmoothKeys 1.1.0 for Maya](https://www.highend3d.com/maya/script/oasmoothkeys-for-maya)**    
-让动画曲线的极端毛刺平滑   
-- Select at least 3 keys in the Graph Editor.
-- Execute 'oaSmoothKeys'.
-- Repeat as necessary.    
+让动画曲线的极端毛刺平滑。“模糊”选定的关键点。非常适合动画清理和平滑抖动的mocap数据       
+Select at least 3 keys in the Graph Editor.   
+Execute 'oaSmoothKeys'.    
+Repeat as necessary.     
 `2019`
-- **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
-还没钱买。看起来It also works with all Advanced Skeleton and RRM characters.
-`Maya from 2018 to 2025`
+- **[h_delFlatKeys](https://www.riganimator.com/wp-content/uploads/scripts/)**    
+清除动画曲线上无意义的点   
+`Maya 2019`
+- **[Maya : Keyframe Reduction](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
+`2019`
+- **[tb Anim Tools](https://tb3d.gumroad.com/l/tbAnimTools)**    
+一套专门用于图层动画的动画工具套件     
+`Maya 2017+、Python2 和 3。仅限 Windows，目前不支持 macOS`
+- **[ZV PARENT MASTER 1.3](https://www.paolodominici.com/products/zvparentmaster/)**    
+可以帮助您轻松地为相互接触或交互的对象设置动画      
+`Maya 2019`
 
+
+
+## 特效
+### 解算 
+- **[Ragdoll Dynamics Unlimited](https://learn.ragdolldynamics.com/maya/home/)**    
+Ragdoll 是Maya的实时物理解算器，类似于原生的nCloth和nHair解算器，不同之处在于它适用于变形而不是点，使得它可以更好地与现有的动画控件集成   
+`Maya 2019-2024`
+## Cloth
+- **[qualoth-5.1-3](https://qualoth.com/)**  
+`2023`
+- **[Carbon](https://numerion-software.com/solutions/products/carbon-for-maya)**  
+`2023`
 
 
 ## 资产库管理  
@@ -214,5 +280,6 @@ blend shape 权重
 6. 此管理器会编辑磁盘上的模块文件，若用户无编辑权限，模块仍会显示，但控件将被禁用，无法编辑文件
 没安装成功   
 `2019`
-- **[Maya : Keyframe Reduction](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
-`2019`
+
+- **[Studio Library](https://www.studiolibrary.com/)**    
+`2019`,`2023`   
