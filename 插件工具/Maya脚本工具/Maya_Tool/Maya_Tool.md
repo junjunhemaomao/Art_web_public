@@ -256,6 +256,15 @@ Repeat as necessary.
 - **[ZV PARENT MASTER 1.3](https://www.paolodominici.com/products/zvparentmaster/)**    
 可以帮助您轻松地为相互接触或交互的对象设置动画      
 `Maya 2019`
+- **[nb_KeyCopier](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
+用于在 Maya 中复制关键帧，快速匹配循环
+`2019`
+
+
+
+
+
+
 
 
 
