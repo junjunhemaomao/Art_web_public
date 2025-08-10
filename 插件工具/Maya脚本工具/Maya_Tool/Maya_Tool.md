@@ -168,7 +168,7 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 3dsMax Bip 绑定 转 Maya 绑定  
 `2019`
 - **[Rigging Helpers](https://www.cgjoy.com/thread-239020-1-1.html)**    
-3dsMax Bip 绑定 转 Maya 绑定  
+一系列的绑定工具集    
 `2019。很可能与 Maya 2022 + 版本存在兼容性问题`
 - **[jh_proceduralRibbon](https://animprops.com/product/advance-ribbon-rig-tool/)**    
 程序化飘带绑定   
@@ -223,6 +223,10 @@ Isolate your controls to make your animation easier
 Isolate your controls to make your animation easier   
 This tool allows you to hide controls, meshes, groups and polys into sets with intuitives icons to focus in diferents part of the body while animating      
 `Maya 2022`
+- **[Screenshot](https://jayantbhatt007.gumroad.com/l/TXQcZ)**     
+测试过，不能用。已经自己重写了一个更完整的版本   
+`maya 2017,2018,2019`
+s
 
 ### IK&FK 工具 
 - **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
