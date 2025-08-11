@@ -163,13 +163,21 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 `Maya 2019` 
 
 ## Rigging Tool  
-### 绑定工具
+### 综合工具集
 - **[MotionConversionAdv_v1.2.2](https://www.cgjoy.com/thread-239020-1-1.html)**    
 3dsMax Bip 绑定 转 Maya 绑定  
 `2019`
 - **[Rigging Helpers](https://www.cgjoy.com/thread-239020-1-1.html)**    
-一系列的绑定工具集    
+一系列的绑定工具集   
 `2019。很可能与 Maya 2022 + 版本存在兼容性问题`
+### IK&FK系统 
+- **[IKFK maya script](https://nachorigs.gumroad.com/l/lTFnK?layout=profile&recommended_by=search)**     
+在任何关节链上创建可扩展、可拉伸的 IKFK 设置  
+`2019`  
+- **[Stretchy FK IK Spline maya rig script](https://nachorigs.gumroad.com/l/aqxit?layout=profile&recommended_by=more_like_this)**     
+可在 Maya 中创建 FK（正向动力学）、IK（反向动力学）、IKFK 或混合 IKFK 绑定。  
+该绑定具备可缩放、可拉伸、体积保持以及扭曲功能   
+`2019` 
 - **[jh_proceduralRibbon](https://animprops.com/product/advance-ribbon-rig-tool/)**    
 程序化飘带绑定   
 `2019`
@@ -179,7 +187,7 @@ blend shape 权重
 `2023`
 
 
-## 动画  
+## Animation Tool   
 
 ### 综合工具集
 - **[aTools](https://camiloalan.wixsite.com/atoolswebsite)**    
@@ -191,14 +199,37 @@ blend shape 权重
 `2023`
 - **[ml_tools](https://github.com/morganloomis/ml_tools)**    
 Animation and Rigging tools for Autodesk Maya     
-`2023`
-- **[animPolish_BASIC_v1.24](https://friggingawesome.gumroad.com/l/animpolish-basic?layout=profile)**    
-一款面向动画和模拟艺术家的 Maya deformation（变形）工具集，专注于突破绑定（rig）、布料 / 毛发模拟的限制，提供一系列专业级工具用于优化动画细节、修复模拟问题，提升镜头最终效果。      
-`Maya 2016+，其中 2016-2021 版本经过全面测试，2022+ 版本支持主要功能（部分小工具可能存在问题`
+`2019`
+- **[GETOOLS 1.6.1](https://geneugene.gumroad.com/l/getools?layout=profile)**    
+Free Maya Tools for 3D Animators   
+ 包含创建定位器、空间切换、模拟次级动画、设置质心等多种工具      
+[查看WIKI了解更多](https://github.com/GenEugene/GETools/wiki)    
+[视频教程合集](https://www.youtube.com/playlist?list=PLhwndaM4LAxhbl95yz9WVie1iYflTFy6S)   
+`2019`,`Maya 2020、2022、2023、2024、2025`
 
 ### 拾取器
-- **[Dreamwall Picker](https://camiloalan.wixsite.com/atoolswebsite)**    
-`Maya 2017 (or higher)`
+- **[anim_picker](https://github.com/gbarlier)**     
+`2019`
+- **[AnimSchool Picker ](https://store.animschool.edu/animschool-picker/)**    
+登录密码：510623Xie$   
+key:https://store.animschool.edu/my-account/view-license-keys/   
+0558-6534-5760-4746  （公司）  
+3567-1329-3695-3806  （家里）  
+ `2019`，`2023`
+- **[Dreamwall Picker](https://camiloalan.wixsite.com/atoolswebsite)**   
+一个替代AnimSchool Picker 的工具   
+[教学视频](https://www.youtube.com/watch?v=yP8SKvDcgEE)   
+`Maya 2017 +`
+- **[prSelectionUi](https://pazrot.gumroad.com/l/prselectionui)**    
+` 2019`
+- **[FT Anim Picker (Maya)](https://munorr.gumroad.com/l/ft-anim-picker-maya)**    
+一款强大的 Maya 动画拾取器工具   
+还没买   
+ `2019`，`2023`
+- **[Save Selection Tool (Maya)](https://munorr.gumroad.com/l/save_selection_tool?layout=profile)**    
+This is an animation tool that lets you save selection sets for objects   
+感觉是不怎么好用       
+`2023`
 
 ### 显示工具集
 - **[Blue Pencil 2](https://zurbrigg.com/blue-pencil-2)**    
@@ -209,36 +240,64 @@ Advanced Grease Pencil for Maya
 通过它能轻松对工作中使用的关键帧类型进行分类   
 例如，可将所有黄金关键姿势设为一种颜色，过渡帧设为另一种颜色，保持帧设为第三种颜色；   
 也可以按角色部位分类    
-`Maya 2017+ `  
-- **[DuBlast_2.1.0](https://rxlaboratorio.org/rx-tool/dublast-for-maya/)**    
-一款为 Maya 打造的增强型播放预览（Playblast）工具   
-没有安装成功   
-`2019`
-- **[Quick_Isolate_v.1.04](https://khaledhussein.gumroad.com/l/falvt?layout=profile)**    
-Isolate your controls to make your animation easier   
-该工具是 Maya 中用于控件管理的辅助工具，通过创建选择集、编辑元素、控制可见性，帮助用户在复杂场景中快速隔离特定控件，提升操作效率（例如动画师聚焦特定控制器、建模师隐藏无关控件等）     
 有一些错误，不能颜色切换，需要进一步改动   
+`Maya 2017+ `  
+- **[Quick_Isolate_v.1.04](https://khaledhussein.gumroad.com/l/falvt?layout=profile)**    
+Isolate your controls to make your animation easier  
+快速隔离    
+该工具是 Maya 中用于控件管理的辅助工具，通过创建选择集、编辑元素、控制可见性，帮助用户在复杂场景中快速隔离特定控件，提升操作效率（例如动画师聚焦特定控制器、建模师隐藏无关控件等）     
 `2019`,`2023`
 - **[FCM Hider](https://francerchiara.gumroad.com/l/FCM_Hider)**    
 Isolate your controls to make your animation easier   
 This tool allows you to hide controls, meshes, groups and polys into sets with intuitives icons to focus in diferents part of the body while animating      
 `Maya 2022`
+
+
+### 截屏及预览输出 
+- **[DuBlast_2.1.0](https://rxlaboratorio.org/rx-tool/dublast-for-maya/)**    
+一款为 Maya 打造的增强型播放预览（Playblast）工具   
+没有安装成功   
+`2019`
 - **[Screenshot](https://jayantbhatt007.gumroad.com/l/TXQcZ)**     
-测试过，不能用。已经自己重写了一个更完整的版本   
-`maya 2017,2018,2019`
-s
+已经自己重写了一个更完整的版本   
+`2019`
+
+
+### BS修型
+- **[animPolish_BASIC_v1.24](https://friggingawesome.gumroad.com/l/animpolish-basic?layout=profile)**    
+一款面向动画和模拟艺术家的 Maya deformation（变形）工具集，专注于突破绑定（rig）、布料 / 毛发模拟的限制，  
+提供一系列专业级工具用于优化动画细节、修复模拟问题，提升镜头最终效果。      
+`Maya 2016+，其中 2016-2021 版本经过全面测试，2022+ 版本支持主要功能（部分小工具可能存在问题）`
+
 
 ### IK&FK 工具 
-- **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
+- **[IK/FK Switcher](https://petarpehchevski3d.gumroad.com/l/ikfkswitcher)**    
+可在保留动画的前提下，在原始控制器之上构建临时的 IK（反向动力学）/FK（正向动力学）设置   
+ `2019`，`2023`
+ - **[IK - FK Match](https://khaledhussein.gumroad.com/l/pPYh?layout=profile&recommended_by=search)**    
 还没钱买。看起来It also works with all Advanced Skeleton and RRM characters.  
 `Maya from 2018 to 2025`
+- **[Temp IK script](https://petarpehchevski3d.gumroad.com/l/ikfkswitcher)**    
+在现有绑定的 FK 链上创建带定位器的临时 IK 链，实现 IK 模式的无缝切换与还原。  
+适用于没有 IK/FK 切换器或 IK/FK 对齐系统的绑定，在游戏动画和影视动画制作中非常实用  
+要钱没买 
+ `2019`，`2023`
 
 ### SpaceSwitching(空间转换)工作流 工具集 
 - **[World-Space Conversion](https://camiloalan.wixsite.com/atoolswebsite)**    
 `Maya 2017 (or higher)`
-
+- **[basic scripts for the OverRig animation method](https://pavelbarnev.gumroad.com/l/OverRigBasic)**    
+`2019`,`2023`
 
 ### 动画帧处理工具 
+
+- **[Aaron Koressel_tool](https://aaronkoressel.com/index.php?nav=tools)**    
+动画脚本工具集  
+`2019`
+- **[nb_KeyCopier](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
+用于在 Maya 中复制关键帧，快速匹配循环
+`2019`
+
 - **[oaSmoothKeys 1.1.0 for Maya](https://www.highend3d.com/maya/script/oasmoothkeys-for-maya)**    
 让动画曲线的极端毛刺平滑。“模糊”选定的关键点。非常适合动画清理和平滑抖动的mocap数据       
 Select at least 3 keys in the Graph Editor.   
@@ -256,9 +315,6 @@ Repeat as necessary.
 - **[ZV PARENT MASTER 1.3](https://www.paolodominici.com/products/zvparentmaster/)**    
 可以帮助您轻松地为相互接触或交互的对象设置动画      
 `Maya 2019`
-- **[nb_KeyCopier](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
-用于在 Maya 中复制关键帧，快速匹配循环
-`2019`
 
 
 
