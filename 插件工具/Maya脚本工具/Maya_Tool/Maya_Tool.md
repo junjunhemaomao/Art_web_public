@@ -202,7 +202,8 @@ blend shape 权重
 是 Maya 动画师最酷、最强大的工具集，超过 90% 的全功能。 AAA 游戏工作室都在使用   
 `2023`
 - **[ml_tools](https://github.com/morganloomis/ml_tools)**    
-Animation and Rigging tools for Autodesk Maya     
+Animation and Rigging tools for Autodesk Maya    
+[详细说明](http://morganloomis.com/tools/)    
 `2019`
 - **[GETOOLS 1.6.1](https://geneugene.gumroad.com/l/getools?layout=profile)**    
 Free Maya Tools for 3D Animators   
@@ -328,28 +329,19 @@ An in-between tool for animators
 `2019`,`2023`
 - **[Offset Keyframes](https://cra3d.gumroad.com/l/Kfmoi)**    
 该工具可用于偏移关键帧的时间和数值，还能实现关键帧数值与时间的交错、循环和随机化处理   
-`2019`
-
-***
-
-
+`2019`,`2023`
+- **[Overlapper v1.1.2](https://dkolpakov.gumroad.com/l/Overlapper)**    
+Tool for creating animation of overlapping action   
+`2019`,`2023`
 - **[h_delFlatKeys](https://www.riganimator.com/wp-content/uploads/scripts/)**    
 清除动画曲线上无意义的点   
 `Maya 2019`
-- **[Maya : Keyframe Reduction](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
-`2019`
 - **[tb Anim Tools](https://tb3d.gumroad.com/l/tbAnimTools)**    
 一套专门用于图层动画的动画工具套件     
 `Maya 2017+、Python2 和 3。仅限 Windows，目前不支持 macOS`
 - **[ZV PARENT MASTER 1.3](https://www.paolodominici.com/products/zvparentmaster/)**    
 可以帮助您轻松地为相互接触或交互的对象设置动画      
 `Maya 2019`
-
-
-
-
-
-
 
 
 
