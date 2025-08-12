@@ -54,6 +54,10 @@ Tool for modifying and smoothing of meshes in Autodesk Maya.
 - **[Circulator 1.0.4](https://www.highend3d.com/maya/script/circulator-for-maya)**     
 核心作用是解决 Maya 中 “将多边形组件快速调整为圆形” 的需求。它通过计算选择组件的几何特征（如边界框、法线方向等），自动将顶点重新定位，形成规则圆形      
 `2019` 
+- **[Animation to Curve](https://cra3d.gumroad.com/l/OZuvE?layout=profile)**    
+Create curves from objects' animations (positions)   
+可以生成动画的轨迹曲线。可以用来生成武器的轨迹         
+`2019`
 
 ### 硬表面建模
 - **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**    
@@ -253,6 +257,7 @@ This tool allows you to hide controls, meshes, groups and polys into sets with i
 `Maya 2022`
 
 
+
 ### 截屏及预览输出 
 - **[DuBlast_2.1.0](https://rxlaboratorio.org/rx-tool/dublast-for-maya/)**    
 一款为 Maya 打造的增强型播放预览（Playblast）工具   
@@ -261,6 +266,11 @@ This tool allows you to hide controls, meshes, groups and polys into sets with i
 - **[Screenshot](https://jayantbhatt007.gumroad.com/l/TXQcZ)**     
 已经自己重写了一个更完整的版本   
 `2019`
+- **[Keyframe PRO](https://zurbrigg.com/keyframe-pro)**    
+Maya to Keyframe Pro 是 Maya 的 Python 脚本，允许用户通过 Maya 内部的紧凑 UI 控制 Keyframe Pro   
+先要安装 Keyframe Pro    
+没有链接成功   
+`2019`,`2023`
 
 
 ### BS修型
@@ -280,30 +290,49 @@ This tool allows you to hide controls, meshes, groups and polys into sets with i
 - **[Temp IK script](https://petarpehchevski3d.gumroad.com/l/ikfkswitcher)**    
 在现有绑定的 FK 链上创建带定位器的临时 IK 链，实现 IK 模式的无缝切换与还原。  
 适用于没有 IK/FK 切换器或 IK/FK 对齐系统的绑定，在游戏动画和影视动画制作中非常实用  
-要钱没买 
+要钱没买   
  `2019`，`2023`
 
 ### SpaceSwitching(空间转换)工作流 工具集 
-- **[World-Space Conversion](https://camiloalan.wixsite.com/atoolswebsite)**    
-`Maya 2017 (or higher)`
 - **[basic scripts for the OverRig animation method](https://pavelbarnev.gumroad.com/l/OverRigBasic)**    
 `2019`,`2023`
+- **[World-Space Conversion](https://camiloalan.wixsite.com/atoolswebsite)**    
+`Maya 2017 (or higher)`
+- **[Space Switcher](https://nikbartlett.gumroad.com/l/spaceswitcher?layout=profile)**   
+ 一款适用于 Maya 的空间切换工具，经更新后功能更优。   
+ 其核心作用是帮助用户创建和管理空间切换，提供了自动吸附、强制吸附、全帧设键、重命名属性信息、查找现有切换等实用功能。    
+ 对于经常制作空间切换动画，或需要快速为绑定创建驱动枚举的用户而言，能显著提升效率，节省时间。   
+`Tested from Maya 2020 up to 2025.  both python 2 and python 3 included`
 
 ### 动画帧处理工具 
-
 - **[Aaron Koressel_tool](https://aaronkoressel.com/index.php?nav=tools)**    
 动画脚本工具集  
 `2019`
-- **[nb_KeyCopier](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile&recommended_by=search)**    
-用于在 Maya 中复制关键帧，快速匹配循环
+- **[nb_KeyCopier](https://nikbartlett.gumroad.com/l/keycopier?layout=profile)**    
+用于在 Maya 中复制关键帧，快速匹配循环   
+Maya2023使用没有效果，要进一步排查，Maya2019中正常   
+`2019`,`2023`
+- **[Maya : Keyframe Reduction](https://robertjoosten.gumroad.com/l/maya-keyframe-reduction?layout=profile)**    
+关键帧简化工具      
 `2019`
-
+- **[maya-tweener](https://github.com/monoteba/maya-tweener)**    
+An in-between tool for animators     
+`2019`
+- **[NP_curveLocalScale 0.1.0 for Maya ](https://www.highend3d.com/maya/script/np_curvelocalscale-for-maya)**    
+可实现对多条曲线进行缩放，且每条曲线都有独立的本地轴心点    
+`2019`
 - **[oaSmoothKeys 1.1.0 for Maya](https://www.highend3d.com/maya/script/oasmoothkeys-for-maya)**    
 让动画曲线的极端毛刺平滑。“模糊”选定的关键点。非常适合动画清理和平滑抖动的mocap数据       
-Select at least 3 keys in the Graph Editor.   
-Execute 'oaSmoothKeys'.    
-Repeat as necessary.     
+选择最少三个动画帧，执行脚本命令     
+已经改成了python版本，不用额外输入执行命令了      
+`2019`,`2023`
+- **[Offset Keyframes](https://cra3d.gumroad.com/l/Kfmoi)**    
+该工具可用于偏移关键帧的时间和数值，还能实现关键帧数值与时间的交错、循环和随机化处理   
 `2019`
+
+***
+
+
 - **[h_delFlatKeys](https://www.riganimator.com/wp-content/uploads/scripts/)**    
 清除动画曲线上无意义的点   
 `Maya 2019`
