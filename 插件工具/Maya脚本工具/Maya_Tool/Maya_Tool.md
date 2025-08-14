@@ -57,7 +57,11 @@ Tool for modifying and smoothing of meshes in Autodesk Maya.
 - **[Animation to Curve](https://cra3d.gumroad.com/l/OZuvE?layout=profile)**    
 Create curves from objects' animations (positions)   
 可以生成动画的轨迹曲线。可以用来生成武器的轨迹         
-`2019`
+`2019`，`2023`
+- **[Free Create Curve on Path 0.0.2 for Maya ](https://www.highend3d.com/maya/script/free-create-curve-on-path-for-maya)**    
+Create a curve along a moving object or vertex  
+可以生成动画的轨迹曲线。更简洁的用户界面        
+`2019`，`2023`
 
 ### 硬表面建模
 - **[GS Toolbox 1.2](https://gs-toolbox.readthedocs.io/en/latest/)**    
@@ -114,6 +118,9 @@ https://im3djoe.gumroad.com/
 ### 排布及对齐
 - **[AlignTool](https://gumroad.com/l/AutoSG)**    
 `2019`
+- **[Grid Organizer](https://cra3d.gumroad.com/l/ikio?layout=profile)**  
+矩阵排列工具     
+`2019`,`2023`
 
 
 ## Hair_Tool  
@@ -174,6 +181,14 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 - **[Rigging Helpers](https://www.cgjoy.com/thread-239020-1-1.html)**    
 一系列的绑定工具集   
 `2019。很可能与 Maya 2022 + 版本存在兼容性问题`
+- **[Rig Studio 2.4.0 for Maya](https://www.highend3d.com/maya/script/rig-studio-for-maya)**    
+模块是这套绑定系统的核心与设计理念。它们可轻松添加到绑定中，并以任意组合方式进行连接。   
+模块不仅包括手臂、脚部、尾巴等，还有许多这些部位的变体。   
+RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，之后一键就能创建  
+`2019`
+
+
+
 ### IK&FK系统 
 - **[IKFK maya script](https://nachorigs.gumroad.com/l/lTFnK?layout=profile&recommended_by=search)**     
 在任何关节链上创建可扩展、可拉伸的 IKFK 设置  
@@ -293,6 +308,11 @@ Maya to Keyframe Pro 是 Maya 的 Python 脚本，允许用户通过 Maya 内部
 适用于没有 IK/FK 切换器或 IK/FK 对齐系统的绑定，在游戏动画和影视动画制作中非常实用  
 要钱没买   
  `2019`，`2023`
+ - **[Universal IK FK Switch](https://www.highend3d.com/maya/script/universal-ik-fk-switch-and-match-tool-lite-for-autodesk-maya-for-maya)**    
+该脚本用于在动画场景中实现 IK 与 FK 控制器的姿势切换和匹配，   
+适用于无内置 IK/FK 匹配功能的绑定，且仅需标准 FK 控制器和 IK 极向量设置。   
+其优势在于控制器定义一次后可存储于节点，便于在整个动画过程中重复使用   
+`2019` 
 
 ### SpaceSwitching(空间转换)工作流 工具集 
 - **[basic scripts for the OverRig animation method](https://pavelbarnev.gumroad.com/l/OverRigBasic)**    
