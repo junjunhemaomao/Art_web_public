@@ -204,6 +204,16 @@ RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，�
 - **[rampWeights](https://github.com/IngoClemens/rampWeights)**  
 blend shape 权重   
 `2023`
+### SDK工具
+- **[MirrorDrivenKey](https://github.com/cloudhuo/MirrorDrivenKey)**  
+maya mirror set driven key tool    
+[菜单项_使用说明](http://yunhaohuofiea.blogspot.com/2017/04/maya-mirror-driven-key-tool-guide.html)    
+`2019`
+- **[Copy Set Driven Key](https://github.com/nazmiprinter/ny_copySDK)**  
+Maya tool to copy/paste driven keys      
+ `2019`，`2023`
+- **[Mirror Set Drive Key 1.0.0 for Maya](https://www.highend3d.com/maya/script/mirror-set-drive-key-for-maya)**      
+ `2019` 
 
 
 ## Animation Tool   
@@ -362,6 +372,12 @@ Tool for creating animation of overlapping action
 - **[ZV PARENT MASTER 1.3](https://www.paolodominici.com/products/zvparentmaster/)**    
 可以帮助您轻松地为相互接触或交互的对象设置动画      
 `Maya 2019`
+
+
+***
+动画工具的UI整合
+
+***
 
 
 

@@ -2,6 +2,7 @@
 
 ## Maya脚本工具
 - [Maya脚本工具](./Maya脚本工具/Maya_Tool/Maya_Tool.md)   
+- [Maya python 学习](./Maya脚本工具/Maya_Python/maya_py.md)   
 - [绑定插件合集](./Maya脚本工具/绑定/绑定资源.md)   
 - [动画资源及插件](./Maya脚本工具/动画插件/动画资源插件.md)  
 - [Zoo Tools](./Maya脚本工具/ZooTools/ZooTools.md)   
