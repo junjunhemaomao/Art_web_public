@@ -5,7 +5,8 @@
 ### 绘画
 - [卡拉瓦乔](./绘画/卡拉瓦乔/卡拉瓦乔.md)
 ### 分镜
-- [Toon Boom Storyboard Pro ](./分镜/ToonBoomStoryboard.md)
+- [Toon Boom Storyboard Pro ](./分镜/ToonBoomStoryboard/ToonBoomStoryboard.md)
+- [TVPaint](./分镜/TVPaint/TVPaint.md)
 ### Spine
 - [AE和Spine制作MOBA游戏动效](./2D动效/AE和Spine制作MOBA游戏动效/AE和Spine制作动效.md)   
 
