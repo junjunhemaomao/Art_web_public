@@ -40,10 +40,13 @@
 
 ## 💻 推荐脚本工具与资源
 
-* 🎓 [Animation Sherpa - Space Switching 教程](https://animationsherpa.com/courses/space-switching)
+* 🎓 [Animation Sherpa - Space Switching 教程](https://www.animationsherpa.com/courses/space-switching)
 * 🔧 [OverRig - Pavel Barnev 开发工具集](https://pavelbarnev.gumroad.com/l/OverRigBasic)
 * ▶️ [YouTube - OverRig 使用演示视频](https://www.youtube.com/watch?v=YlxmJX4KJm8)
 
+* 🎓[Space Switching Animation Tool-mGear](http://forum.mgear-framework.com/t/space-switching-animation-tool/1626)    
+[github_mgear_dist](https://github.com/mgear-dev/mgear_dist)    
+[mGear & ueGear Framework](https://www.mgear-framework.com/)       
 ---
 
 ## 🏋️ 总结：一种绑定哲学的转变
