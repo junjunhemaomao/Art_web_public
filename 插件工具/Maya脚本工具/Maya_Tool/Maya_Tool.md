@@ -281,7 +281,9 @@ Isolate your controls to make your animation easier
 Isolate your controls to make your animation easier   
 This tool allows you to hide controls, meshes, groups and polys into sets with intuitives icons to focus in diferents part of the body while animating      
 `Maya 2022`
-
+- **[Making Proxy Rig Script (Python)](https://truongcgartist.gumroad.com/l/proxymaking?layout=profile)**    
+一个快速制作代理模型的插件   
+`2019`,`2023`
 
 
 ### 截屏及预览输出 
@@ -297,6 +299,7 @@ Maya to Keyframe Pro 是 Maya 的 Python 脚本，允许用户通过 Maya 内部
 先要安装 Keyframe Pro    
 没有链接成功   
 `2019`,`2023`
+
 
 
 ### BS修型
