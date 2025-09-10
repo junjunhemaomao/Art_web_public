@@ -188,7 +188,6 @@ RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，�
 `2019`
 
 
-
 ### IK&FK系统 
 - **[IKFK maya script](https://nachorigs.gumroad.com/l/lTFnK?layout=profile&recommended_by=search)**     
 在任何关节链上创建可扩展、可拉伸的 IKFK 设置  
@@ -201,9 +200,17 @@ RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，�
 程序化飘带绑定   
 `2019`
 ### 权重工具 
+- **[Faces To Weight - Maya skinning tool](https://truongcgartist.gumroad.com/l/facestoweight)**  
+将模型的面部选择转换为皮肤权重  
+`2023`
+### BS修型  
 - **[rampWeights](https://github.com/IngoClemens/rampWeights)**  
 blend shape 权重   
 `2023`
+- **[animPolish_BASIC_v1.24](https://friggingawesome.gumroad.com/l/animpolish-basic?layout=profile)**    
+一款面向动画和模拟艺术家的 Maya deformation（变形）工具集，专注于突破绑定（rig）、布料 / 毛发模拟的限制，  
+提供一系列专业级工具用于优化动画细节、修复模拟问题，提升镜头最终效果。      
+`Maya 2016+，其中 2016-2021 版本经过全面测试，2022+ 版本支持主要功能（部分小工具可能存在问题）`
 ### SDK工具
 - **[MirrorDrivenKey](https://github.com/cloudhuo/MirrorDrivenKey)**  
 maya mirror set driven key tool    
@@ -299,15 +306,6 @@ Maya to Keyframe Pro 是 Maya 的 Python 脚本，允许用户通过 Maya 内部
 先要安装 Keyframe Pro    
 没有链接成功   
 `2019`,`2023`
-
-
-
-### BS修型
-- **[animPolish_BASIC_v1.24](https://friggingawesome.gumroad.com/l/animpolish-basic?layout=profile)**    
-一款面向动画和模拟艺术家的 Maya deformation（变形）工具集，专注于突破绑定（rig）、布料 / 毛发模拟的限制，  
-提供一系列专业级工具用于优化动画细节、修复模拟问题，提升镜头最终效果。      
-`Maya 2016+，其中 2016-2021 版本经过全面测试，2022+ 版本支持主要功能（部分小工具可能存在问题）`
-
 
 ### IK&FK 工具 
 - **[IK/FK Switcher](https://petarpehchevski3d.gumroad.com/l/ikfkswitcher)**    
