@@ -1,6 +1,9 @@
 # Maya插件的加密和发布   
 Maya2019 内置 Python 2.7    
 Python2.7 已过期，PyArmor 在此环境下加密容易报错。Anaconda单独做环境。  
+Python 2.7.11 for Windows 64 位（amd64）   
+🔗 直接下载地址：   
+<https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi>      
 ```
 conda create -n py27 python=2.7
 conda activate py27
