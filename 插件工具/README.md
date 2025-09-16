@@ -1,6 +1,7 @@
 # 插件工具
 
 ## Maya脚本工具
+- [Maya插件的加密和发布](./Maya脚本工具/Maya插件的加密和发布/Maya插件的加密和发布.md)
 - [Maya脚本工具](./Maya脚本工具/Maya_Tool/Maya_Tool.md)   
 - [Maya python 学习](./Maya脚本工具/Maya_Python/maya_py.md)   
 - [绑定插件合集](./Maya脚本工具/绑定/绑定资源.md)   
