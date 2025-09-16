@@ -16,7 +16,10 @@ Python 2.7.11 for Windows 64 位（amd64）
 🔗 直接下载地址：   
 <https://www.python.org/ftp/python/2.7.11/python-2.7.11.amd64.msi>    
 安装过程中不用添加环境变量，2.7是很特殊的版本，会把已有的python版本优先级给覆盖掉   
-
+命令行安装：
+```
+"C:\Program Files\Autodesk\Maya2019\bin\mayapy.exe" -c "import pyarmor; print(pyarmor.__version__)"
+```
 最好新建工程，在PyCharm中配置python-2.7.11的虚拟环境     
 1️⃣ 升级 pip、setuptools、wheel    
 ```
