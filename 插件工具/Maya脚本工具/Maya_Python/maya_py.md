@@ -1,4 +1,9 @@
 # Maya_Python学习（一）
+Maya.cmds本质上是对MEL（Maya Embedded Language）命令的Python封装。仍然需要按照命令行的思路来编写代码，有时候可能需要组合多个命令来实现复杂功能。
+
+OpenMaya是由Autodesk官方开发的一个更为面向对象的Python API。OpenMaya允许开发人员直接访问和操作Maya的内部数据结构，从而更深入地控制和定制Maya的行为。它更贴近Python的编程风格，提供了更高级的抽象和更简洁的代码。
+
+PyMEL（Python Maya Embedded Language）是由社区开发的工具，旨在为Maya提供更高级、更Pythonic的接口。是对OpenMaya进一步的包装，更面向实际使用。
 
 ```
 import maya.cmds as cmds

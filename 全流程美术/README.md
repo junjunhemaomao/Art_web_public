@@ -48,7 +48,8 @@
 ***
 ## 材质贴图
 ### Substance Painter
-- [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md) 
+- [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md)   
+- [FlippedNormals - Character Face Texturing in Substance Painter](./材质贴图/Character_Face_Texturing_in_SP/Character_Face_Texturing_in_SP.md)
 ### MARI
 - [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari扩展包.md)
 
@@ -114,7 +115,8 @@
 ## 渲染
 - [Aronld渲染说明](./渲染/Arnold/Arnold1.md)  
 - [Arnold SSS 皮肤渲染及设置](./渲染/Arnold/Arnold%20次表面散射材质/Arnold%20次表面散射材质.md)
-- [皮克斯渲染器RenderMan](./渲染/RenderMan/RenderMan.md)
+- [皮克斯渲染器RenderMan](./渲染/RenderMan/RenderMan.md) 
+- [Octane Render](./渲染/Octane/Octane.md) 
 - [Marmoset Toolbag渲染](./渲染/MarmosetToolbag/MarmosetToolbag.md)
 ***
 ## 合成
