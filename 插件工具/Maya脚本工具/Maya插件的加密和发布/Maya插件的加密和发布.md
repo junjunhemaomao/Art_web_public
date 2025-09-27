@@ -27,7 +27,7 @@ Maya2023：
 # -*- coding: utf-8 -*-
 import os
 import subprocess
-import sys
+import shutil
 
 # ---------------- 配置 ----------------
 # 待加密脚本目录
@@ -51,11 +51,11 @@ def ensure_init_files(root_dir):
         init_path = os.path.join(dirpath, "__init__.py")
         if not os.path.exists(init_path):
             try:
-                # 写入一个空文件（也可以写注释）
                 with open(init_path, "w", encoding="utf-8") as f:
                     f.write("# package\n")
             except Exception as e:
                 print("[WARN] 无法创建 __init__.py: {} ({})".format(init_path, e))
+
 
 def obfuscate_for_maya(maya_version, mayapy_path):
     print("\n=== 处理 {} ===".format(maya_version))
@@ -73,34 +73,37 @@ def obfuscate_for_maya(maya_version, mayapy_path):
         return False
 
     dist_dir = os.path.join(DIST_ROOT, maya_version)
-    if not os.path.exists(dist_dir):
-        os.makedirs(dist_dir)
+    os.makedirs(dist_dir, exist_ok=True)
 
+    # --- 执行加密 ---
     for filename in os.listdir(SCRIPT_DIR):
         if filename.endswith(".py"):
             src_file = os.path.join(SCRIPT_DIR, filename)
             print("正在加密 {} ...".format(src_file))
 
-            cmd = [
-                mayapy_path,
-                pyarmor_py,
-                "obfuscate",
-                src_file,
-                "--output", dist_dir
-            ]
-            # 处理 Windows 路径空格
-            cmd = ['"{}"'.format(part) if ' ' in part else part for part in cmd]
+            cmd = [mayapy_path, pyarmor_py, "obfuscate", src_file, "--output", dist_dir]
 
             try:
-                subprocess.check_call(' '.join(cmd), shell=True)
+                subprocess.check_call(cmd)
             except subprocess.CalledProcessError as e:
                 print("[ERROR] {} 加密 {} 失败: {}".format(maya_version, src_file, e))
                 return False
 
-    # 加密完成后，确保输出目录中每个目录都有 __init__.py
+    # --- 移动 pytransform 到平级目录 ---
+    nested_runtime = os.path.join(dist_dir, "poly", "pytransform")
+    flat_runtime = os.path.join(dist_dir, "pytransform")
+
+    if os.path.exists(nested_runtime):
+        if os.path.exists(flat_runtime):
+            shutil.rmtree(flat_runtime)
+        shutil.move(nested_runtime, flat_runtime)
+        print("[INFO] 已把 pytransform 移到平级目录: {}".format(flat_runtime))
+
+    # 确保输出目录中有 __init__.py
     ensure_init_files(dist_dir)
     print("[INFO] ✅ {} 加密完成，输出目录: {}".format(maya_version, dist_dir))
     return True
+
 
 # ---------------- 主流程 ----------------
 if not os.path.exists(SCRIPT_DIR):
@@ -122,7 +125,10 @@ print("  from scripts_done.Maya2023 import my_tool")
 print("=======================================\n")
 ```
 
-## 部署到 Maya
+## 部署到 Maya   
+PyArmor 的运行时 pytransform 目录必须位于 顶层可直接 import 到的路径，而不是嵌套在包里    
+有个必要前提，需要在文件夹内创建一个空的`__init__.py`文件。  
+这样在一个文件夹里方便对该工具集的相关资产进行集中管理。   
 将 scripts_done 文件夹及里面的内容一起拷贝到 Maya scripts 目录，例如：
 ```
 C:\Users\<用户名>\Documents\maya\2023\scripts\
@@ -132,5 +138,3 @@ Maya 中导入示例：
 from scripts_done import my_tool
 my_tool.create_cube()
 ```
-有个必要前提，需要在文件夹内创建一个空的`__init__.py`文件。  
-这样在一个文件夹里方便对该工具集的相关资产进行集中管理。   
