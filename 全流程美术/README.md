@@ -36,10 +36,11 @@
 ### 风格化
 - [类守望先锋风格化游戏角色](./建模/类守望先锋风格化游戏角色/类守望先锋.md)
 - [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemaleVictory3D/HardSurfaceFantasyFemale.md) 
-- [Hyperreal 3D Character Creation by Şefki Ibrahim](./建模/Hyperreal3DCharacter/Hyperreal3DCharacter.md)   
-- [Male Character Creation - Complete Game Pipeline](./建模/MaleCharacterCreation/MaleCharacterCreation.md)
 - [VideoGame Character Creation - Katon Callaway](./建模/VideoGameCCKatonCallaway/VideoGameCCKatonCallaway.md)
+- [Male Character Creation - Complete Game Pipeline](./建模/Male_Character_Creation/Male_Character_Creation.md)
 ### 写实次时代   
+- [High Precision Female Portrait Making Workflow](./建模/HighPrecisionFemalePortrait/hpfp.md)  
+- [Hyperreal 3D Character Creation by Şefki Ibrahim](./建模/Hyperreal_3D_Character_Creation/H3CC.md)   
 - [紫罗兰永恒花园的女主角](./建模/紫罗兰永恒花园的女主角/紫罗兰永恒花园的女主角.md)   
 - [源赖光](./建模/源赖光/源赖光.md)   
 - [Asuka Langley Workshop](./建模/AsukaLangleyWorkshop/AsukaLangleyWorkshop.md)   
