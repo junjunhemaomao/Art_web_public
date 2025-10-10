@@ -1,7 +1,21 @@
 # Mari 4.7 影视级贴图绘制软件极速上手   
 ![alt text](./image.png)    
 ## 原理介绍   
-
+项目文件的默认保存位置。也可以更改   
+![alt text](./image-1.png)   
+和Maya一样，也是项目制的。不是文件制   
+Archive打包项目   
+投射模式修改。可以改为手动。     
+![alt text](./image-2.png)   
+手动模式下，按B键才会投射。CTRL+shift+c清理掉投射屏上的内容    
+![alt text](./image-3.png)    
+### UDIM
+![alt text](./image-4.png)    
+命名规则和顺序   
+![alt text](./image-5.png)  
+### 名词和概念   
+mari有自己概念的命名方式，明确一下： 
+> shader着色器（材质） channal通道（一组贴图）——patches纹理片（贴图）
 ## 视图导航  
 
 ## 项目创建  
