@@ -52,7 +52,9 @@
 - [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md)   
 - [FlippedNormals - Character Face Texturing in Substance Painter](./材质贴图/Character_Face_Texturing_in_SP/Character_Face_Texturing_in_SP.md)
 ### MARI
-- [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari扩展包.md)
+- [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari_Extension/Mari扩展包.md)
+- [Mari 4.7 影视级贴图绘制软件极速上手教学](./材质贴图/Mari/Mari极速上手/Mari极速上手.md)   
+- [Mari常用功能](./材质贴图/Mari/Mari常用功能/Mari常用功能.md)
 
 ## 绑定
 ### 全身绑定
