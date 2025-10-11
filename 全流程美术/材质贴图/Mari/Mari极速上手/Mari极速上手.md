@@ -17,9 +17,17 @@ Archive打包项目
 mari有自己概念的命名方式，明确一下： 
 > shader着色器（材质） channal通道（一组贴图）——patches纹理片（贴图）
 ## 视图导航  
-
+可以设置数位板笔的快捷按钮   
+![alt text](./image-6.png)   
+### 显示设置  
+视图显示的整体设置    
+![alt text](./image-7.png)
 ## 项目创建  
-
+### 偏好设置   
+如果笔刷边缘有干扰视觉，可以把透明度调低   
+![alt text](./image-8.png)    
+插件预设的路径   
+![alt text](./image-9.png)   
 ## 界面
 
 ## 选择相关 

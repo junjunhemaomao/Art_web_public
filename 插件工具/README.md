@@ -9,8 +9,10 @@
 - [Zoo Tools](./Maya脚本工具/ZooTools/ZooTools.md)   
 - [Maya安装 **MS Tools** 工具时，**UserSetup** 配置文件的相关问题](./Maya脚本工具/Maya_AutoLoad_Plugin/Plugin说明.md)   
 - [Maya保存工具架设](./Maya脚本工具/保存Maya工具架设置/保存Maya工具架设置.md)
-- [Maya和Pycharm连接](./Maya脚本工具/Maya和Pycharm连接/Maya和Pycharm连接.md)
+- [Maya和Pycharm连接](./Maya脚本工具/Maya和Pycharm连接/Maya和Pycharm连接.md)   
 
+## Mari插件   
+- [Mari插件](./Mari插件/Mari插件.md)
 ## Houdini 脚本工具
 - [HDA安装方法](./Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
 - [Houdini脚本工具](./Houdini脚本工具/Houdini脚本工具/Houdini脚本工具.md)
@@ -19,4 +21,4 @@
 - [manhha00](https://gist.github.com/manhha00)
 
 ## 3dsMax脚本工具
-- [自动光滑组工具](./3dsMax脚本工具/光滑组工具/光滑组工具.md)
+- [自动光滑组工具](./3dsMax脚本工具/光滑组工具/光滑组工具.md)   
