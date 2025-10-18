@@ -29,15 +29,32 @@ mari有自己概念的命名方式，明确一下：
 插件预设的路径   
 ![alt text](./image-9.png)   
 ## 界面
-
+可以把node节点变为nuke模式。看个人习惯        
+![alt text](./image-10.png)   
+可以对模型的不同版本进行替换   
+是目前无损替换支持性最好的     
+![alt text](./image-11.png)   
 ## 选择相关 
-
-## 灯光和shader 
+S 快捷键   
+不同的选择层级       
+![alt text](./image-12.png)     
+可以对选择做选择集      
+![alt text](./image-13.png)   
+## 灯光和shader   
+可以设置HDRI相关的   
+![alt text](./image-14.png)     
+选择当前灯光，点击摄像机按钮，可以把灯光移动到当前摄像机   
+![alt text](./image-15.png)     
+shader相关是一个过滤显示为主的功能   
+![alt text](./image-16.png)   
+但常用的是快捷键F1，F2，F3  
+![alt text](./image-17.png)    
 
 ## channels创建  
 
 ## 笔刷和投射类工具  
-
+ctrl+shift 左键。缩放paintbuffer   
+Ctrl + Shift + C
 ## 变形类工具   
 
 ## painbuffer类工具   
