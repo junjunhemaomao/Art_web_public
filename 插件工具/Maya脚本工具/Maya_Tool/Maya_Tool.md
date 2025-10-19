@@ -393,6 +393,11 @@ Ragdoll 是Maya的实时物理解算器，类似于原生的nCloth和nHair解算
 - **[Carbon](https://numerion-software.com/solutions/products/carbon-for-maya)**  
 `2023`
 
+## 渲染
+### RenderMan
+- [RenderMan](https://renderman.pixar.com/)
+miaoxuan   510623Xie （公司）
+3567-1329-3695-3806 （家里）
 
 ## 资产库管理  
 - **[Maya - Module Manager](https://robertjoosten.gumroad.com/l/maya-module-manager?layout=profile&recommended_by=search)**    

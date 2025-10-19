@@ -83,7 +83,7 @@ renderman的像素采样的次数，由前后渲染的梯度差来决定，所�
 ![alt text](./image-34.png)   
 渲染像素间的过渡算法，可以保持高斯模糊不变    
 ![alt text](./image-35.png)   
-## 批量渲染   
+### 批量渲染   
 批量文件的形式   
 本地/网络，Maya渲染序列/导出为RIB后执行的序列  
 要发送渲染任务到renderman，需要把Spool Style改为RIB   
