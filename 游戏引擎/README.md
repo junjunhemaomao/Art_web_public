@@ -2,7 +2,8 @@
 > 立足引擎使用，形成专题性的解决方案
 
 ## Unity 3D  
-- [Unity API 记录学习](./Unity3D/API/Unity_API_详解.md)
+- [Unity API 记录学习](./Unity3D/API/Unity_API_详解.md)  
+- [unity中截带Alpha图](./Unity3D/unity中截带Alpha图/unity中截带Alpha图.md)
 ### 插件使用
 - [对话系统插件Dialogue System for Unity](./Unity3D/Dialogue插件/Dialogue插件.md)
 - [任务系统插件Quest Machine](./Unity3D/QuestMachine/QuestMachine.md)   

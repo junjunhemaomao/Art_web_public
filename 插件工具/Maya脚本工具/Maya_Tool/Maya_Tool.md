@@ -172,6 +172,10 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 - **[Nightshade_UV](https://www.highend3d.com/maya/script/nightshade-uv-editor-for-maya)**    
 一个比较老牌的UV工具集     
 `Maya 2019` 
+- **[Hotspot Texturing Plugin for Maya](https://nswift.gumroad.com/l/hotspot-texturing-maya?layout=profile)**    
+一款旨在极大提升硬表面模型（如车辆、机械、建筑构件等）纹理绘制效率的免费Maya插件  
+流程是先手动对位trim贴图的位置情况，遍历覆盖里面的可能性。生成一个Jason文件，后续用加载这个Jason文件，就可以快速用于其他的模型         
+`Maya 2023` 
 
 ## Rigging Tool  
 ### 综合工具集
