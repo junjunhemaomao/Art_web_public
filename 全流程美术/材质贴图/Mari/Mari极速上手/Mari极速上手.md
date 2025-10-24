@@ -49,12 +49,19 @@ shader相关是一个过滤显示为主的功能
 ![alt text](./image-16.png)   
 但常用的是快捷键F1，F2，F3  
 ![alt text](./image-17.png)    
-
 ## channels创建  
-
+导出channel贴图   
+![alt text](./image-18.png)   
+两种添加channel的方法   
+置换贴图需要把Raw Data勾选上    
+Scalar Data 勾选上就是黑白贴图    
+![alt text](./image-19.png)    
 ## 笔刷和投射类工具  
+P,U,E 键   
+
 ctrl+shift 左键。缩放paintbuffer   
-Ctrl + Shift + C
+Ctrl + Shift + C   
+
 ## 变形类工具   
 
 ## painbuffer类工具   

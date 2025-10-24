@@ -200,6 +200,9 @@ RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，�
 可在 Maya 中创建 FK（正向动力学）、IK（反向动力学）、IKFK 或混合 IKFK 绑定。  
 该绑定具备可缩放、可拉伸、体积保持以及扭曲功能   
 `2019` 
+- **[LMrigger](https://luismiherrera.gumroad.com/l/LMrigger?layout=profile&recommended_by=products_for_you)**    
+一个FK快速创建工具      
+`2019`
 - **[jh_proceduralRibbon](https://animprops.com/product/advance-ribbon-rig-tool/)**    
 程序化飘带绑定   
 `2019`
