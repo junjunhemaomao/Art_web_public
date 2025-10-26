@@ -57,16 +57,67 @@ shader相关是一个过滤显示为主的功能
 Scalar Data 勾选上就是黑白贴图    
 ![alt text](./image-19.png)    
 ## 笔刷和投射类工具  
-P,U,E 键   
-
+### 绘画工具  
+P,U,E 键 切换常用绘画工具     
+有时候投射画不上，可能是在非颜色图层上    
+可以把透视完后的贴图，再重新抬到paintbuffer上    
+![alt text](./image-20.png)    
+R键 笔刷缩放大小。O键，透明度缩放    
+Q键调整笔刷压扁，然后按W键可以旋转笔刷         
+![alt text](./image-21.png)   
 ctrl+shift 左键。缩放paintbuffer   
 Ctrl + Shift + C   
-
-## 变形类工具   
-
-## painbuffer类工具   
-
+按repeat 可以重复绘制   
+![alt text](./image-22.png)   
+可以导入PS的笔刷   
+![alt text](./image-23.png)    
+### 其他绘画工具 
+模糊   
+![alt text](./image-24.png)    
+渐变    
+![alt text](./image-25.png)   
+一般来说是投射整个物体   
+快捷键`   
+勾选穿透物体  
+![alt text](./image-26.png)    
+克隆笔刷    
+类似PS仿制图章工具    
+ctrl+绘制  
+![alt text](./image-27.png)   
+## 变形类工具  
+变形工具，加点减点  
+快捷键：上下键   
+shift+r 旋转   
+![alt text](./image-28.png)   
+液化工具   
+![alt text](./image-29.png)   
+打点变形   
+上下键控制拉伸变形衰减的强度   
+![alt text](./image-30.png)    
+修补工具    
+![alt text](./image-31.png)    
+## painbuffer 编辑类工具   
+选择相关工具及其相关操作   
+主要是对选择的painbuffer进行操作        
+![alt text](./image-32.png)  
+选区的羽化值    
+![alt text](./image-33.png)    
 ## 投射相关设置 
+对painbuffer图进行调整。但很少这样做   
+![alt text](./image-34.png)   
+clamp 限制值在0-1    
+![alt text](./image-35.png)    
+可以修改投射的穿透和投射的物体     
+![alt text](./image-36.png)   
+edge mask 用比较多，可以对边缘做遮罩，不给变形的部分做绘制。防止边缘投射的变形    
+![alt text](./image-37.png)  
+channel mask 可以用其他通道的图做遮罩   
+AO mask 现在更多倍objects下的GO节点代替  
+depth mask 深度遮罩   
+### projecters 外部绘画   
+类似一个快照，可以导出快照到PS之类绘制，然后再导入回来   
+![alt text](./image-38.png)   
+
 
 ## 物体属性和烘焙
 
