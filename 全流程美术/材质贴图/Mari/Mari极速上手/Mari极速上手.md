@@ -47,7 +47,7 @@ S 快捷键
 ![alt text](./image-15.png)     
 shader相关是一个过滤显示为主的功能   
 ![alt text](./image-16.png)   
-但常用的是快捷键F1，F2，F3  
+但常用的是快捷键F1，F2，F3   
 ![alt text](./image-17.png)    
 ## channels创建  
 导出channel贴图   
