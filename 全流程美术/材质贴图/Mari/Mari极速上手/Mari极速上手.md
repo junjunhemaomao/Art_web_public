@@ -117,14 +117,50 @@ depth mask 深度遮罩
 ### projecters 外部绘画   
 类似一个快照，可以导出快照到PS之类绘制，然后再导入回来   
 ![alt text](./image-38.png)   
-
-
 ## 物体属性和烘焙
-
+贴图烘焙的通道   
+也可以任意贴图放这里，可以传递图层信息   
+![alt text](./image-39.png)    
+烘焙相关   
+![alt text](./image-40.png)   
+在烘焙出来的贴图节点上按1,可以显示这个烘焙效果   
+![alt text](./image-41.png)    
 ## 图层相关
-
+遮罩图层嵌套   
+![alt text](./image-42.png)   
+调整图层   
+![alt text](./image-43.png)    
+滤镜   
+需要加在普通图层上。调整图层是没有效果的    
+![alt text](./image-44.png)   
+程序化纹理    
+![alt text](./image-45.png)    
+多层通道图层。模仿SD   
+![alt text](./image-46.png)    
 ## 节点相关 
-
+节点和层逻辑是一样的，只是表现形式不一样   
+![alt text](./image-47.png)    
+在节点上按1,可以显示这个节点单独的效果   
+有10个暂存的数字通道   
+### 节点整理
+快速整理：L键
+backdrop 节点，组织管理  
+可以选中节点后，tap键呼出面板，创建backdrop 节点      
+![alt text](./image-48.png)   
+还可以对选择的节点打组 CTRL+G   
+ctrl + Enter 可以进入打组的节点内    
+![alt text](./image-49.png)    
+在连线上点ctrl键，可以加点，对线进行整理   
+![alt text](./image-50.png)    
+### 常用节点   
+P 键 绘画节点    
+![alt text](./image-51.png)   
+编辑节点相关   
+![alt text](./image-52.png)    
+Back point    
+![alt text](./image-53.png)   
+对于确定效果不再改的部分，可以烘焙塌陷数据，让运行数据更小   
+![alt text](./image-54.png)    
 ## 程序化材质
 
 ## 机械类案例
