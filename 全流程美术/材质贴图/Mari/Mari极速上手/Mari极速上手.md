@@ -161,8 +161,26 @@ Back point
 ![alt text](./image-53.png)   
 对于确定效果不再改的部分，可以烘焙塌陷数据，让运行数据更小   
 ![alt text](./image-54.png)    
-## 程序化材质
-
+## 程序化材质    
+总体是模仿SP   
+![alt text](./image-55.png)   
+custom procedural 可以自定义一组节点集，打包成特定功能。但要选择三类中的一种   
+![alt text](./image-56.png)    
+可以把内部是某些参数暴露在最外的打包节点   
+![alt text](./image-57.png)    
+![alt text](./image-58.png)    
+也可以在最外部去选择暴露的参数   
+![alt text](./image-59.png)    
+可以链接某几个值，一起调，做成一个新的参数   
+![alt text](./image-60.png)   
+可以选择自定义节点的缩略图，并输出成一个自定义的节点工具   
+![alt text](./image-61.png)    
+如果合成多个材质，导致很卡，可以多材质烘焙   
+![alt text](./image-62.png)     
+一般自定义节点工具，用geo-channel里烘焙的贴图数据   
+![alt text](./image-63.png)    
+mari也提供了一些预设的基础程序节点数据   
+![alt text](./image-64.png)   
 ## 机械类案例
 
 ## 金龟案例
