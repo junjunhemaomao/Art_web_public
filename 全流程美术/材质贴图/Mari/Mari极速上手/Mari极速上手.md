@@ -182,5 +182,13 @@ custom procedural 可以自定义一组节点集，打包成特定功能。但�
 mari也提供了一些预设的基础程序节点数据   
 ![alt text](./image-64.png)   
 ## 机械类案例
+先烘焙，一般而言，mari中很慢很卡，会在SP中烘焙好   
+可以查看烘焙的效果      
+![alt text](./image-65.png)    
+![alt text](./image-66.png)   
+S 键选中对应物体后，再选择Mask节点，右键点击fill，可以创建遮罩   
+![alt text](./image-67.png)    
+这种连接方法，可以快速添加一些同类色细节     
+![alt text](./image-68.png)    
 
 ## 金龟案例
