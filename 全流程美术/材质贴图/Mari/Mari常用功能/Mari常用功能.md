@@ -2,9 +2,12 @@
 ### Tile Node
 ### Merge Node
 ### Radio Transmitter/Radio Node
+mari 扩展包内的  
+可以共享mask。可以独立出mask组，和主图不直接连接       
 ### Super Soft Brush
 ### Stencil/luminance Node
-
+利用黑白图做投射遮罩    
+![alt text](./image-4.png)    
 ## 皮肤无缝贴图
 根据截取的方形计算  
 ![alt text](./image.png)    
