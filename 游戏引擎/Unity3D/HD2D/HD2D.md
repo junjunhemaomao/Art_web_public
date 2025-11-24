@@ -6,6 +6,6 @@
 制作像素贴图的方法   
 [How I Make My Textures](https://www.youtube.com/watch?v=KDjOaVAWBVE)    
 
-KTT (Kruger Terrain Tools) is a set of powerful terrain generation tools for Houdini 20.5+ that overhauls terrain generation in Houdini, combining the flexibility and control present in Houdini with the latest and greatest innovations in Heightfield terrain modeling.
+KTT (Kruger Terrain Tools) is a set of powerful terrain generation tools for Houdini 20.5+ that overhauls terrain generation in Houdini, combining the flexibility and control present in Houdini with the latest and greatest innovations in Heightfield terrain modeling.    
 ![alt text](./image-2.png)   
 [KTT for Houdini](https://samk9632.gumroad.com/l/KTTforHoudini)   
