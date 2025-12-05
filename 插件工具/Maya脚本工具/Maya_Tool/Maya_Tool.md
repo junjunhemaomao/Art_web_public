@@ -178,7 +178,7 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 `Maya 2023` 
 
 ## Rigging Tool  
-### 综合工具集
+### 全家桶工具集
 - **[MotionConversionAdv_v1.2.2](https://www.cgjoy.com/thread-239020-1-1.html)**    
 3dsMax Bip 绑定 转 Maya 绑定  
 `2019`
@@ -190,6 +190,9 @@ The Material Manager is an all-in-one interface for quickly interacting with sce
 模块不仅包括手臂、脚部、尾巴等，还有许多这些部位的变体。   
 RS 处处运用模板。模块乃至完整的绑定都可以保存为模板，之后一键就能创建  
 `2019`
+- **[mGear](https://www.mgear-framework.com/)**    
+适用于 Autodesk Maya 和 Unreal Engine 的开源绑定和动画框架    
+`2023`
 
 
 ### IK&FK系统 
