@@ -15,6 +15,7 @@
 - [Houdini 总览](./Houdini/Houdini总览/Houdini总览.md)  
 - [Houdini和pycharm通信](./Houdini/Houdini和pycharm通信/Houdini和pycharm通信.md)
 - [Unity使用Houdini的HDA指南](./Houdini/AssetforUnity/AssetforUnity.md)  
+- [Unity链接Houdini](./Houdini/houdini_unity/houdini_unity.md)  
 ### 工具及扩展  
 - [HDA安装方法](/插件工具/Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
 - [Houdini脚本工具](/插件工具/Houdini脚本工具/Houdini脚本工具/Houdini脚本工具.md)
