@@ -58,7 +58,8 @@
 - [Mari 4.7 影视级贴图绘制软件极速上手教学](./材质贴图/Mari/Mari极速上手/Mari极速上手.md)   
 - [Mari常用功能](./材质贴图/Mari/Mari常用功能/Mari常用功能.md)  
 - [Skin Texturing And Shading In Mari And Arnold](./材质贴图/Mari/SkinTexturing/SkinTexturing.md)    
-- [Establishing a Texturing Pipeline Between MARI and Maya](./材质贴图/Mari/MARI_Maya/MARI_Maya.md)  
+- [Establishing a Texturing Pipeline Between MARI and Maya](./材质贴图/Mari/MARI_Maya/MARI_Maya.md)   
+- [Photo-Realistic Texturing in Mari Buddha Mask Full Course](./材质贴图/Mari/BuddhaMask/BuddhaMask.md)   
 
 ## 绑定
 ### 全身绑定
