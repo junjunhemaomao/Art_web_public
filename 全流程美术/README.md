@@ -57,7 +57,8 @@
 - [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari_Extension/Mari扩展包.md)
 - [Mari 4.7 影视级贴图绘制软件极速上手教学](./材质贴图/Mari/Mari极速上手/Mari极速上手.md)   
 - [Mari常用功能](./材质贴图/Mari/Mari常用功能/Mari常用功能.md)  
-- [Skin Texturing And Shading In Mari And Arnold](./材质贴图/Mari/SkinTexturing/SkinTexturing.md)  
+- [Skin Texturing And Shading In Mari And Arnold](./材质贴图/Mari/SkinTexturing/SkinTexturing.md)    
+- [Establishing a Texturing Pipeline Between MARI and Maya](./材质贴图/Mari/MARI_Maya/MARI_Maya.md)  
 
 ## 绑定
 ### 全身绑定
