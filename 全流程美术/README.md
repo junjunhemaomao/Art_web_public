@@ -52,7 +52,10 @@
 ## 材质贴图
 ### Substance Painter
 - [Substance 3D Painter完全学习圣典 ](./材质贴图/SP/sp.md)   
-- [FlippedNormals - Character Face Texturing in Substance Painter](./材质贴图/Character_Face_Texturing_in_SP/Character_Face_Texturing_in_SP.md)
+- [FlippedNormals - Character Face Texturing in Substance Painter](./材质贴图/Character_Face_Texturing_in_SP/Character_Face_Texturing_in_SP.md)     
+### Substance Designer
+- [Substance 3d Designer完全学习圣典](./材质贴图/Substance_Designer/Substance_Designer完全学习/Substance_Designer完全学习.md)   
+- [Creating Complex Materials for Games in Substance Designer](./材质贴图/Substance_Designer/Complex_Materials_for_Games/Complex_Materials_for_Games.md)   
 ### MARI
 - [Mari MariExtension Pack_扩展包](./材质贴图/Mari/Mari_Extension/Mari扩展包.md)
 - [Mari 4.7 影视级贴图绘制软件极速上手教学](./材质贴图/Mari/Mari极速上手/Mari极速上手.md)   
