@@ -22,7 +22,8 @@
 - [SideFX Labs](./Houdini/SideFX_Labs/SideFX_Labs.md)
 ### 程序化建模  
 - [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)   
-- [WFC程序化建筑](./Houdini/Houdini程序化建筑/Houdini程序化建筑.md)  
+- [WFC程序化建筑](./Houdini/Houdini程序化建筑/Houdini程序化建筑.md)    
+- [The Gnomon Workshop - Procedural Workflows for Games using Houdini](./Houdini/Procedural_Workflows_for_Games/PWFG.md)    
 ### 大世界PCG  
 - [Houdini PCG for Unity](./Houdini/PCGforUnity/PCGforUnity.md)
 - [PCGforUnreal](./Houdini/PCGforUnreal/PCGforUnreal.md)
