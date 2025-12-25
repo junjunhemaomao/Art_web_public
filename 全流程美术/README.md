@@ -19,7 +19,10 @@
 ### 工具及扩展  
 - [HDA安装方法](/插件工具/Houdini脚本工具/HDA安装方法/HDA安装方法.md)  
 - [Houdini脚本工具](/插件工具/Houdini脚本工具/Houdini脚本工具/Houdini脚本工具.md)
-- [SideFX Labs](./Houdini/SideFX_Labs/SideFX_Labs.md)
+- [SideFX Labs](./Houdini/SideFX_Labs/SideFX_Labs.md)     
+### Python for Houdini  
+- [Python States for Houdini TDs](./Houdini/Python_States_for_Houdini_TDs/Python_States_for_Houdini_TDs.md)  
+- [REBELWAY - PYTHON FOR HOUDINI ARTIST](./Houdini/PYTHON_FOR_HOUDINI_ARTIST/PYTHON_FOR_HOUDINI_ARTIST.md)  
 ### 程序化建模  
 - [Houdini 基础建模](./Houdini/Houdini建模/Houdini建模.md)   
 - [WFC程序化建筑](./Houdini/Houdini程序化建筑/Houdini程序化建筑.md)    
