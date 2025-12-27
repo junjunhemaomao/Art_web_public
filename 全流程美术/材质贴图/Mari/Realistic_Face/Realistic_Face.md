@@ -17,5 +17,7 @@ ZB雕刻
 ![alt text](./image-7.png)     
 低模分UV   
 ![alt text](./image-8.png)     
+XYZ贴图的使用流程   
+https://texturing.xyz/pages/killer-workflow-using-xyz-and-zwrap    
 
 
