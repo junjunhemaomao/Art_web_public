@@ -278,6 +278,12 @@ This is an animation tool that lets you save selection sets for objects
 感觉是不怎么好用       
 `2023`
 
+### 动画POSE管理
+- **[Studio Library](https://www.studiolibrary.com/)**    
+`2019`,`2023`   
+- **[PoseMAN 1.3.3](https://www.highend3d.com/maya/script/poseman-pose-manager-for-maya)**    
+`2019`,`2023` 
+
 ### 显示工具集
 - **[Blue Pencil 2](https://zurbrigg.com/blue-pencil-2)**    
 Advanced Grease Pencil for Maya   
@@ -345,7 +351,7 @@ Maya to Keyframe Pro 是 Maya 的 Python 脚本，允许用户通过 Maya 内部
  其核心作用是帮助用户创建和管理空间切换，提供了自动吸附、强制吸附、全帧设键、重命名属性信息、查找现有切换等实用功能。    
  对于经常制作空间切换动画，或需要快速为绑定创建驱动枚举的用户而言，能显著提升效率，节省时间。   
 `Tested from Maya 2020 up to 2025.  both python 2 and python 3 included`
-
+ 
 ### 动画帧处理工具 
 - **[Aaron Koressel_tool](https://aaronkoressel.com/index.php?nav=tools)**    
 动画脚本工具集  
@@ -423,5 +429,3 @@ miaoxuan   510623Xie （公司）
 没安装成功   
 `2019`
 
-- **[Studio Library](https://www.studiolibrary.com/)**    
-`2019`,`2023`   
