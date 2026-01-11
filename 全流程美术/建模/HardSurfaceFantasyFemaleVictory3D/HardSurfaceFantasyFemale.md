@@ -7,7 +7,7 @@
 <https://zbro.gumroad.com/l/DmXxE>    
 ![alt text](./image-1.png)   
 <https://zbro.gumroad.com/l/HTIdL>     
-![alt text](image-2.png)     
+![alt text](./image-2.png)     
 从一个basemesh开始   
 ![alt text](./image-3.png)    
 原画    
@@ -72,8 +72,7 @@ curve mode模式下绘制
 光滑    
 ![alt text](./image-40.png)    
 ![alt text](./image-41.png)    
-制作腿部花瓣，先作为insertmesh，后加载腿部低模，再insertMesh创建成NanoMesh   
-![alt text](./image-42.png)    
+制作腿部花瓣，先作为insertmesh，后加载腿部低模，再insertMesh创建成NanoMesh    
 可以每个面插入模型  
 ![alt text](./image-43.png)   
 再调整属性值等   

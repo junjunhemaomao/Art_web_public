@@ -82,15 +82,59 @@
 ![alt text](./image-40.png)    
 导入Maya后提取线，制作后续  
 ![alt text](./image-41.png)   
-然后为一些发簇加一些折边细节.面片挤出厚度并调整细节。同时要注意头发的末端自然飘逸，用软选择可以调出一些变化。头发的整体也要避免太工业化，做一些自然的粗细变化。     
+然后为一些发簇加一些折边细节.面片挤出厚度并调整细节。同时要注意头发的末端自然飘逸，用软选择可以调出一些变化。    
+头发的整体也要避免太工业化，做一些自然的粗细变化。     
 ![alt text](./image-42.png)  
 倒回ZB再调整  
 ![alt text](./image-43.png)    
 ![alt text](./image-44.png)
 ## 身体制作  
-![alt text](./image-45.png)
+![alt text](./image-45.png)    
 案例作者对结构的理解比较死抠，可以选择性理解学习      
-![alt text](./image-46.png)   
+![alt text](./image-46.png)    
 ![alt text](./image-47.png)  
 ![alt text](./image-48.png)
 ## 衣服制作 
+遮罩绘制并挤出，zremesher重建细分    
+![alt text](./image-49.png)     
+继续制作   
+![alt text](./image-50.png)     
+![alt text](./image-51.png)     
+其他部件   
+![alt text](./image-52.png)    
+![alt text](./image-53.png)    
+![alt text](./image-54.png)     
+![alt text](./image-55.png)      
+![alt text](./image-56.png)     
+![alt text](./image-57.png)      
+![alt text](./image-58.png)     
+![alt text](./image-59.png)     
+切割分组方法一        
+![alt text](./image-60.png)     
+分组并做循环边        
+![alt text](./image-61.png)    
+组的推拉挤出    
+![alt text](./image-62.png)   
+![alt text](./image-63.png)    
+继续其它部件   
+![alt text](./image-64.png)     
+![alt text](./image-65.png)    
+![alt text](./image-66.png)    
+![alt text](./image-67.png)      
+![alt text](./image-68.png)     
+![alt text](./image-69.png)    
+![alt text](./image-70.png)     
+![alt text](./image-71.png)    
+![alt text](./image-72.png)     
+![alt text](./image-73.png)      
+![alt text](./image-74.png)    
+![alt text](./image-75.png)      
+![alt text](./image-76.png)      
+曲线函数，可以匹配网格特征    
+![alt text](./image-77.png)    
+继续雕刻   
+![alt text](./image-78.png)     
+![alt text](./image-79.png)    
+![alt text](./image-80.png)    
+
+
