@@ -131,7 +131,7 @@
 - gs-curvetools
 ***
 ## 渲染
-- [Aronld渲染说明](./渲染/Arnold/Arnold1.md)  
+- [Cinematic Arnold and Maya Lighting and Rendering Techniques for Advanced](./渲染/Arnold/Arnold_Maya_Lighting_Rendering/Arnold_Maya_Lighting_Rendering.md)  
 - [Arnold SSS 皮肤渲染及设置](./渲染/Arnold/Arnold%20次表面散射材质/Arnold%20次表面散射材质.md)
 - [皮克斯渲染器RenderMan](./渲染/RenderMan/RenderMan.md) 
 - [Octane Render](./渲染/Octane/Octane.md) 
