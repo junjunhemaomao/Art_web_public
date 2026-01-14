@@ -1,8 +1,9 @@
-# Unreal Engine Ultimate Survival Horror Course 
+# Unreal Engine Ultimate Survival Horror Course   
+![alt text](./image-38.png)    
 ## 设置 Setting Up 
 新建第三人称项目，创建后处理体积，设置曝光恒定，并勾选无限范围   
 ![alt text](./image.png)    
-### 游戏实例
+### 游戏实例 GameInstance
 gameinstance蓝图。  
 游戏开始时生成，游戏结束时被删除   
 是跨越关卡间的，不会被重置    
@@ -65,3 +66,54 @@ HUD已经被淘汰，更多用于调试。
 添加到游戏模式 Game Mode    
 ![alt text](./image-19.png)    
 ## 角色控制 Character Controller   
+### 摄像机运动 Camera Movement
+玩家控制器 Player Controller中添加鼠标控制镜头移动    
+设置input里添加`LookUp`,`LookRight`    
+![alt text](./image-20.png)      
+![alt text](./image-21.png)      
+角色` L1_Character `里的摄像机勾选pawn control    
+![alt text](./image-22.png)    
+Player Controller 中添加输入     
+![alt text](./image-23.png)    
+![alt text](./image-24.png)    
+![alt text](./image-25.png)    
+现在运行，鼠标可以控制在视图里的转动了    
+太还是太过灵敏，需要添加灵敏度变量`LookSensitivty`,浮点类型        
+![alt text](./image-26.png)   
+先给默认值0.4，创建并连接浮点值节点  
+用一个浮点数乘以一个浮点数       
+![alt text](./image-27.png)     
+![alt text](./image-28.png)    
+![alt text](./image-29.png)    
+### WASD运动 WASD Movement
+添加控制映射    
+![alt text](./image-30.png)    
+![alt text](./image-31.png)   
+角色` L1_Character `里添加        
+![alt text](./image-32.png)   
+![alt text](./image-33.png)    
+可以更改行走速度   
+![alt text](./image-34.png)     
+### 跳 Jumping    
+添加控制   
+![alt text](./image-35.png)     
+角色` L1_Character `里设置    
+![alt text](./image-36.png)    
+如果要改变跳高，修改值    
+![alt text](./image-37.png)   
+
+## Horror Basics 
+### Interaction
+添加交互按键       
+![alt text](./image-39.png)     
+添加目录结构和interface蓝图        
+命名为`BPL_Interaction`    
+![alt text](./image-40.png)    
+创建重命名一个函数`interact`      
+![alt text](./image-41.png)    
+在角色控制 Character Controller中添加一个`射线检测 line trace`函数    
+添加一个Length的输入    
+![alt text](./image-42.png)    
+从游戏摄像机画面中心发出一条射线，如果碰到了BP交互，就可以识别出来          
+
+### 交互 Interaction  

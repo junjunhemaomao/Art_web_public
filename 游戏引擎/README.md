@@ -27,6 +27,7 @@
 - [母材质](./Unreal_Engine/基础/材质/材质1.md)  
 ### 游戏     
 - [只狼动作手游](./Unreal_Engine/游戏/只狼动作手游/只狼动作手游.md)   
+- [Ultimate Survival Horror Course](./Unreal_Engine/游戏/Ultimate_Survival_Horror/Ultimate_Survival_Horror.md) 
 ### 地编  
 - [唯美古风场景](./Unreal_Engine/地编/唯美古风场景/唯美古风场景.md)
 - [UE5新功能介绍与《恶人谷游戏场景》案例演示](./Unreal_Engine/地编/恶人谷游戏场景UE5/恶人谷游戏场景.md) 
