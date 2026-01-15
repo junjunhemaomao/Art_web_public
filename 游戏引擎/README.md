@@ -16,15 +16,17 @@
 - [黑暗之魂DarkSouls复刻经典教程 ARPG DARK SOULS in Unity3d](./Unity3D/ARPG/ARPG.md)   
 - [HD_2D](./Unity3D/HD2D/HD2D.md)
 ### Shader
-- [Unity-Chan Toon Shader 2.0 ](./Unity3D/Shader/ChanToonShader/ChanToonShader.md)  
-- [The Unity Shaders Bible](./Unity3D/Shader/The_Unity_Shaders_Bible/The_Unity_Shaders_Bible.md)
+- [Unity-Chan Toon Shader 2.0](./Unity3D/材质与渲染/Shader/ChanToonShader/ChanToonShader.md)  
+- [The Unity Shaders Bible](./Unity3D/材质与渲染/Shader/The_Unity_Shaders_Bible/The_Unity_Shaders_Bible.md)
 ### Tool 
 - [实用脚本](./Unity3D/实用脚本/实用脚本.md)
 
 ## Unreal Engine
 ### 基础
 - [蓝图学习](./Unreal_Engine/基础/蓝图/蓝图1.md)
-- [母材质](./Unreal_Engine/基础/材质/材质1.md)  
+- [母材质](./Unreal_Engine/基础/材质/材质1.md) 
+### python in UE
+- [Python_in_Unreal_Engine概览](./Unreal_Engine/Python/Python_in_UE概览/Python_in_UE.md)
 ### 游戏     
 - [只狼动作手游](./Unreal_Engine/游戏/只狼动作手游/只狼动作手游.md)   
 - [Ultimate Survival Horror Course](./Unreal_Engine/游戏/Ultimate_Survival_Horror/Ultimate_Survival_Horror.md) 
@@ -46,6 +48,7 @@
 - [使用Live Link整合虚幻引擎与Maya](./Unreal_Engine/动画/Live_Link/livelink.md)    
 - [武器插槽坐标和绑定系统坐标的同步](./Unreal_Engine/动画/武器坐标同步/武器坐标同步.md)
 ### UI及交互   
+- [本地化翻译](./Unreal_Engine/本地化翻译/本地化翻译.md)
 - [UI案例](./Unreal_Engine/UI/UI案例/UI案例.md)    
 - [Master Enhanced Input with C++ & Blueprints](./Unreal_Engine/UI/Master_Enhanced_Input/Master_Enhanced_Input.md)    
 ### 插件

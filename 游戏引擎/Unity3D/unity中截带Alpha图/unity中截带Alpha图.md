@@ -1,8 +1,10 @@
 # unity中截带Alpha图 
+
 ## 使用方法：
 1. 确保场景中有一个主相机（Camera.main 可识别），若需单独截图某个物体，可给物体设置单独 Layer（如 “Player”），后续用相机 “Culling Mask” 只渲染该 Layer
 2. 在 Unity 中创建 C# 脚本（命名为TransparentScreenshot）
-3. 运行游戏后，按键盘S 键即可截图，截图会保存在项目根目录的 “Screenshots” 文件夹中。  
+3. 运行游戏后，按键盘S 键即可截图，截图会保存在项目根目录的 “Screenshots” 文件夹中。 
+
 ## TransparentScreenshot.cs
 ```
 using UnityEngine;
