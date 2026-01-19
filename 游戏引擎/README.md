@@ -47,7 +47,8 @@
 - [城堡案例](./Unreal_Engine/地编/城堡/城堡.md)
 ### 动画
 - [使用Live Link整合虚幻引擎与Maya](./Unreal_Engine/动画/Live_Link/livelink.md)    
-- [武器插槽坐标和绑定系统坐标的同步](./Unreal_Engine/动画/武器坐标同步/武器坐标同步.md)
+- [武器插槽坐标和绑定系统坐标的同步](./Unreal_Engine/动画/武器坐标同步/武器坐标同步.md)    
+- [Udemy - Unreal Engine Cinematic Creator for Video Game Design](./Unreal_Engine/动画/Cinematic_Creator_for_Video_Game_Design/Cinematic_Creator_for_Video_Game_Design.md)
 ### UI及交互   
 - [本地化翻译](./Unreal_Engine/本地化翻译/本地化翻译.md)
 - [UI案例](./Unreal_Engine/UI/UI案例/UI案例.md)    
