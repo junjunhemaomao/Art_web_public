@@ -43,7 +43,8 @@
 - [类守望先锋风格化游戏角色](./建模/类守望先锋风格化游戏角色/类守望先锋.md)
 - [Udemy - Hard Surface Fantasy Female Character in Zbrush by Victory3D](./建模/HardSurfaceFantasyFemaleVictory3D/HardSurfaceFantasyFemale.md) 
 - [VideoGame Character Creation - Katon Callaway](./建模/VideoGameCCKatonCallaway/VideoGameCCKatonCallaway.md)
-- [Male Character Creation - Complete Game Pipeline](./建模/Male_Character_Creation/Male_Character_Creation.md)
+- [Male Character Creation - Complete Game Pipeline](./建模/Male_Character_Creation/Male_Character_Creation.md)    
+- [Designing Stylized 3D Characters](./建模/Designing_Stylized_3D_Characters/Designing_Stylized_3D_Characters.md)
 ### 写实次时代   
 - [High Precision Female Portrait Making Workflow](./建模/HighPrecisionFemalePortrait/hpfp.md)  
 - [Hyperreal 3D Character Creation by Şefki Ibrahim](./建模/Hyperreal_3D_Character_Creation/H3CC.md)   
@@ -53,6 +54,7 @@
 - [南宋武士顶级影视角色制作案例教学](./建模/南宋武士/南宋武士.md)   
 - [流浪骑士](./建模/流浪骑士/流浪骑士.md)   
 - [李白头像](./建模/李白头像/李白头像.md)
+- [狮驼王](./建模/狮驼王/狮驼王.md)
 ### 动画场景   
 - [三维动画电影场景制作流程](./建模/三维动画电影场景制作流程/三维动画电影场景制作流程.md)
 - [Maya院线场景动画制作流程](./建模/Maya院线场景动画制作流程/Maya院线场景动画制作流程.md)
