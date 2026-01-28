@@ -45,7 +45,7 @@ module.exports = {
     // 开启代码块的行号
     lineNumbers: true,
     // 支持 4 级以上的标题渲染
-    extractHeaders: ["h2", "h3", "h4", "h5", "h6"],
+    extractHeaders: ["h2", "h3"],
   },
   // @ts-ignore
   plugins: [
@@ -82,12 +82,12 @@ module.exports = {
       },
     ],
     // https://github.com/ekoeryanto/vuepress-plugin-sitemap
-    [
-      "sitemap",
-      {
-        hostname: domain,
-      },
-    ],
+    // [
+    //   "sitemap",
+    //   {
+    //     hostname: domain,
+    //   },
+    // ],
     // https://github.com/IOriens/vuepress-plugin-baidu-autopush
     ["vuepress-plugin-baidu-autopush"],
     // https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags
@@ -100,15 +100,15 @@ module.exports = {
       },
     ],
     // https://github.com/webmasterish/vuepress-plugin-feed
-    [
-      "feed",
-      {
-        canonical_base: domain,
-        count: 10000,
-        // 需要自动推送的文档目录
-        posts_directories: [],
-      },
-    ],
+    // [
+    //   "feed",
+    //   {
+    //     canonical_base: domain,
+    //     count: 10000,
+    //     // 需要自动推送的文档目录
+    //     posts_directories: [],
+    //   },
+    // ],
     // https://github.com/tolking/vuepress-plugin-img-lazy
     ["img-lazy"],
   ],
@@ -117,7 +117,6 @@ module.exports = {
     logo: "/logo.png",
     nav: navbar,
     sidebar, // 保留左侧边栏
-    // lastUpdated: "最近更新",
     footer,
     // 添加主题配色配置
     colorMode: {
