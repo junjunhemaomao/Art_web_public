@@ -6,8 +6,8 @@ export default [
         link: "/全流程美术/",
     },
        {
-        text: "电影",
-        link: '/电影/'
+        text: "电影和阅读",
+        link: '/电影和阅读/'
     },
     {
         text: "游戏引擎",
@@ -25,10 +25,6 @@ export default [
     {
         text: "技术美术",
         link: '/技术美术/'
-    },
-    {
-        text: "读书笔记",
-        link: '/读书笔记/'
     },
     {
         text: "项目实践",
