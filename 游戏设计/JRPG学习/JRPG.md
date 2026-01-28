@@ -17,7 +17,7 @@
 
 ### 玩家行走控制脚本   
 >  在Windows中，vscode格式化代码快捷键是“Shift+Alt+F”    
-```cshape
+```csharp
 using System;
 using System.Collections;
 using System.Collections.Generic;

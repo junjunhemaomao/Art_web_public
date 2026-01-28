@@ -85,7 +85,7 @@ LoadAssetAtPath 用于从 Assets 文件夹中加载指定路径下的资源。
 使用场景：在脚本中进行资源操作（如创建、删除文件）后调用它，确保 Unity 了解这些变化。
 ### 使用示例：
 假设你需要通过脚本从外部目录导入一张图片到 Assets/Textures 文件夹并将其加载为纹理：
-```cshap
+```csharp
 using UnityEditor;
 using UnityEngine;
 

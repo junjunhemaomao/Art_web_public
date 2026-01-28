@@ -7,7 +7,7 @@ https://texturing.xyz/products/male-30s-multichannel-face-28
 ZB雕刻   
 ![alt text](image-2.png)   
 重拓扑   
-![alt text](./image-3.png)     
+<!-- ![alt text](./image-3.png) -->     
 ![alt text](./image-4.png)     
 在ZB中，把细分细节投射回重新拓扑的模型   
 ![alt text](./image-5.png)    
