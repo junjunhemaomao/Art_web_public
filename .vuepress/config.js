@@ -1,16 +1,15 @@
-import { defineConfig } from "vuepress/config";
-import navbar from "./navbar";
-import sidebar from "./sidebar"; // 保留左侧边栏
-import footer from "./footer";
+const navbar = require("./navbar");
+const sidebar = require("./sidebar");
+const footer = require("./footer");
 
 const author = "君君";
 const domain = "https://codefather.cn";
 const tags = ["游戏美术", "原画", "建模", "技术美术", "电影"];
 
-export default defineConfig({
+module.exports = {
   title: "知识库",
   description: "终身学习，终身成长。",
-  port: 18000, // 添加端口配置
+  // port: 18000, // 添加端口配置
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -67,7 +66,7 @@ export default defineConfig({
         title: ($page) => $page.title,
         description: ($page) =>
           $page.frontmatter.description || $page.description,
-        author: (_, $site) => $site.themeConfig.author || author,
+        author: (_, $site) => ($site.themeConfig.author || author),
         tags: ($page) => $page.frontmatter.tags || tags,
         type: ($page) => "article",
         url: (_, $site, path) =>
@@ -118,7 +117,7 @@ export default defineConfig({
     logo: "/logo.png",
     nav: navbar,
     sidebar, // 保留左侧边栏
-    lastUpdated: "最近更新",
+    // lastUpdated: "最近更新",
     footer,
     // 添加主题配色配置
     colorMode: {
@@ -132,4 +131,4 @@ export default defineConfig({
       // 其他自定义颜色
     },
   },
-});
+};

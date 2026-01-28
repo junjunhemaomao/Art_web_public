@@ -1,6 +1,4 @@
-import {NavItem} from "vuepress/config";
-
-export default [
+module.exports = [
     {
         text: "全流程美术",
         link: "/全流程美术/",
@@ -30,4 +28,4 @@ export default [
         text: "项目实践",
         link: '/项目实践/'
     },
-] as NavItem[];
+];
