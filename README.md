@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "CodeFather"
-  text: "终身学习，终身成长"
-  tagline: Lifelong Learning
+  text: "Lifelong Learning"
+  tagline: 终身学习，终身成长
   image:
     src: /logo.png
     alt: CodeFather Logo
