@@ -2,6 +2,9 @@ const navbar = require("./navbar");
 const sidebar = require("./sidebar");
 const footer = require("./footer");
 
+// 判断是否是生产环境构建 (build 模式)
+const isProd = process.env.NODE_ENV === 'production';
+
 const author = "君君";
 const domain = "https://codefather.cn";
 const tags = ["游戏美术", "原画", "建模", "技术美术", "电影"];
@@ -82,12 +85,13 @@ module.exports = {
       },
     ],
     // https://github.com/ekoeryanto/vuepress-plugin-sitemap
-    // [
-    //   "sitemap",
-    //   {
-    //     hostname: domain,
-    //   },
-    // ],
+    // 仅在 build 模式下启用
+    ...(isProd ? [[
+      "sitemap",
+      {
+        hostname: domain,
+      },
+    ]] : []),
     // https://github.com/IOriens/vuepress-plugin-baidu-autopush
     ["vuepress-plugin-baidu-autopush"],
     // https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags
@@ -100,15 +104,16 @@ module.exports = {
       },
     ],
     // https://github.com/webmasterish/vuepress-plugin-feed
-    // [
-    //   "feed",
-    //   {
-    //     canonical_base: domain,
-    //     count: 10000,
-    //     // 需要自动推送的文档目录
-    //     posts_directories: [],
-    //   },
-    // ],
+    // 仅在 build 模式下启用
+    ...(isProd ? [[
+      "feed",
+      {
+        canonical_base: domain,
+        count: 10000,
+        // 需要自动推送的文档目录
+        posts_directories: [],
+      },
+    ]] : []),
     // https://github.com/tolking/vuepress-plugin-img-lazy
     ["img-lazy"],
   ],
