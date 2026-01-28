@@ -62,6 +62,7 @@ function generateSidebar() {
 }
 
 export default defineConfig({
+  base: '/Art_web/',
   title: "CodeFather",
   description: "CodeFather Art Web",
   markdown: {
