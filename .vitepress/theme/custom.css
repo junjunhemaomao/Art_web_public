@@ -114,36 +114,34 @@
   }
 }
 
-/* 强制 Hero 区域左对齐（在没有图片时） */
+/* 强制 Hero 区域左对齐（在没有图片时） - 已注释，因为现在要加回图片，使用默认布局即可 */
+/*
 .VPHero.VPHomeHero {
-  margin-top: 40px; /* 稍微给点顶部空间 */
+  margin-top: 40px;
 }
 
 @media (min-width: 960px) {
-  /* 让 Hero 内容容器也遵循最大宽度，并左对齐 */
   .VPHero .container {
     max-width: 1200px !important;
     margin: 0 auto !important;
     text-align: left !important;
   }
 
-  /* 让文字区域（标题、简介、按钮组）左对齐 */
   .VPHero .main {
     width: 100% !important;
-    max-width: 800px !important; /* 防止文字太宽 */
-    margin: 0 !important; /* 移除 auto margin 实现左对齐 */
+    max-width: 800px !important; 
+    margin: 0 !important; 
   }
 
-  /* 标题和副标题左对齐 */
   .VPHero .name,
   .VPHero .text,
   .VPHero .tagline {
     text-align: left !important;
   }
   
-  /* 按钮组左对齐 */
   .VPHero .actions {
     justify-content: flex-start !important;
   }
 }
+*/
 

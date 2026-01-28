@@ -5,9 +5,9 @@ hero:
   name: "CodeFather"
   text: "终身学习，终身成长"
   tagline: Lifelong Learning
-  # image:
-  #   src: /fm.png
-  #   alt: CodeFather Logo
+  image:
+    src: /logo.png
+    alt: CodeFather Logo
   actions:
     - theme: brand
       text: 开始阅读
