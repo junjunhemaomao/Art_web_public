@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.Bx1bucHt.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"全流程美术/材质贴图/SP/sp.md","filePath":"全流程美术/材质贴图/SP/sp.md"}'),s={name:"全流程美术/材质贴图/SP/sp.md"};function r(o,c,n,p,_,d){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

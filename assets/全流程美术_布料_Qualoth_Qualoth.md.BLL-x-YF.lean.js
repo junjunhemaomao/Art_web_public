@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as e}from"./chunks/framework.Bx1bucHt.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"全流程美术/布料/Qualoth/Qualoth.md","filePath":"全流程美术/布料/Qualoth/Qualoth.md"}'),o={name:"全流程美术/布料/Qualoth/Qualoth.md"};function r(s,c,n,l,h,p){return a(),e("div")}const d=t(o,[["render",r]]);export{_ as __pageData,d as default};
