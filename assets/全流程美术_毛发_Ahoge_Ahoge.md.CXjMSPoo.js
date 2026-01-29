@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.Bx1bucHt.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"全流程美术/毛发/Ahoge/Ahoge.md","filePath":"全流程美术/毛发/Ahoge/Ahoge.md"}'),a={name:"全流程美术/毛发/Ahoge/Ahoge.md"};function r(s,c,n,h,p,_){return t(),o("div")}const m=e(a,[["render",r]]);export{i as __pageData,m as default};
