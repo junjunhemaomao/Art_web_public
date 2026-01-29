@@ -1,5 +1,0 @@
-# Toon Boom Storyboard Pro 
-
-##
-
-## 
