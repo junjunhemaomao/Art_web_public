@@ -1,0 +1,10 @@
+{
+  "shop_id": "shop_weapon_01",
+  "currency": "gold",
+  "buy_rate": 1.0,  
+  "sell_rate": 0.5, 
+  "inventory": [
+    { "item_id": "sword_iron", "stock": -1, "req_level": 1 }, 
+    { "item_id": "potion_hp", "stock": 10, "discount": 0.8 }  
+  ]
+}

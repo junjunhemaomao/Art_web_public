@@ -1,0 +1,15 @@
+{
+  "id": "rcp_potion_hp_medium",
+  "category": "Alchemy",
+  "output": { "item_id": "potion_hp_medium", "count": 1 },
+  "crit_output": { "item_id": "potion_hp_medium", "count": 2 }, 
+  "base_crit_rate": 0.1,
+  "unlock_req": { "type": "RecipeItem", "id": "blueprint_alchemy_adv" },
+  "cost": {
+    "gold": 200,
+    "items": [
+      { "id": "mat_herb_green", "count": 3 },
+      { "id": "mat_water_pure", "count": 1 }
+    ]
+  }
+}

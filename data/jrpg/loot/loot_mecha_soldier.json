@@ -1,0 +1,21 @@
+{
+  "enemy_id": "enemy_mecha_01",
+  "fixed_drops": [
+    { "item_id": "mat_scrap_metal", "count": 1 }
+  ],
+  "conditional_drops": [
+    {
+      "condition": "KillElement_Fire", 
+      "item_id": "mat_burnt_circuit",
+      "chance": 0.8
+    },
+    {
+      "condition": "KillState_Break", 
+      "item_id": "mat_core_fragment",
+      "chance": 0.5
+    }
+  ],
+  "random_drops": [
+    { "item_id": "potion_hp_small", "chance": 0.2 }
+  ]
+}

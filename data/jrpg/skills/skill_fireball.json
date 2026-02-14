@@ -1,0 +1,15 @@
+{
+  "skill_id": "sk_fireball_01",
+  "name": "火球术",
+  "type": "Active",
+  "element": "Fire",
+  "cost": { "mp": 10, "tp": 0 },
+  "target_type": "SingleEnemy",
+  "power": 120, 
+  "break_damage": 1,
+  "timeline_delay": 100, 
+  "effects": [
+    { "type": "ApplyStatus", "status_id": "st_burn", "chance": 0.3 }
+  ],
+  "animation": "anim_cast_fireball"
+}

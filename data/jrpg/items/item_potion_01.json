@@ -1,0 +1,11 @@
+{
+  "id": "item_potion_hp_small",
+  "type": "Consumable",
+  "name": "急救安瓿",
+  "price": 50,
+  "stack_limit": 99,
+  "effects": [
+    { "type": "HealHP", "value": 30, "is_percentage": true }
+  ],
+  "description": "便携式蒸汽注射器，恢复30%生命值。"
+}

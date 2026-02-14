@@ -1,0 +1,20 @@
+{
+  "id": "sk_chen_steam_shot",
+  "name": "灵枢速射",
+  "type": "Normal",
+  "element": "Physical",
+  "cost": { "tp_gain": 10 },
+  "target_type": "SingleEnemy",
+  "power_ratio": 1.0, 
+  "break_power": 1,
+  "timeline_delay": 100,
+  "effects": [
+    { "type": "Damage", "attribute": "ATK", "multiplier": 1.0 },
+    { "type": "BonusDamage", "condition": "TargetType_Flying", "multiplier": 1.5 }
+  ],
+  "animation": {
+    "anim_name": "attack_shoot",
+    "vfx_prefab": "VFX_Combat_SteamShot",
+    "sfx_event": "SFX_Chen_Shoot"
+  }
+}

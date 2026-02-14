@@ -1,0 +1,18 @@
+{
+  "scene_id": "Map_Forest_01",
+  "scene_type": "Road",
+  "portals": [
+    {
+      "id": "Portal_West", 
+      "trigger_collider": "Box_01", 
+      "target_scene": "Town_Starter", 
+      "target_portal": "Portal_East_Gate" 
+    },
+    {
+      "id": "Portal_East", 
+      "trigger_collider": "Box_02", 
+      "target_scene": "Map_Forest_02", 
+      "target_portal": "Portal_West" 
+    }
+  ]
+}

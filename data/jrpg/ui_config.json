@@ -1,0 +1,14 @@
+{
+  "theme": "Steampunk_Jade",
+  "colors": {
+    "highlight": "#FFD700", 
+    "normal": "#C0C0C0",    
+    "disabled": "#505050",  
+    "danger": "#FF4500"     
+  },
+  "sounds": {
+    "hover": "sfx_ui_gear_tick",
+    "confirm": "sfx_ui_jade_click",
+    "cancel": "sfx_ui_paper_flip"
+  }
+}

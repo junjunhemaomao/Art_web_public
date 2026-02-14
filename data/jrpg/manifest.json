@@ -1,0 +1,241 @@
+[
+  {
+    "path": "skills/skill_chen_01.json",
+    "source": "角色技能体系.md",
+    "type": "skills",
+    "data": {
+      "id": "sk_chen_steam_shot",
+      "name": "灵枢速射",
+      "type": "Normal",
+      "element": "Physical",
+      "cost": {
+        "tp_gain": 10
+      },
+      "target_type": "SingleEnemy",
+      "power_ratio": 1,
+      "break_power": 1,
+      "timeline_delay": 100,
+      "effects": [
+        {
+          "type": "Damage",
+          "attribute": "ATK",
+          "multiplier": 1
+        },
+        {
+          "type": "BonusDamage",
+          "condition": "TargetType_Flying",
+          "multiplier": 1.5
+        }
+      ],
+      "animation": {
+        "anim_name": "attack_shoot",
+        "vfx_prefab": "VFX_Combat_SteamShot",
+        "sfx_event": "SFX_Chen_Shoot"
+      }
+    }
+  },
+  {
+    "path": "skills/skill_fireball.json",
+    "source": "战斗机制核心.md",
+    "type": "skills",
+    "data": {
+      "skill_id": "sk_fireball_01",
+      "name": "火球术",
+      "type": "Active",
+      "element": "Fire",
+      "cost": {
+        "mp": 10,
+        "tp": 0
+      },
+      "target_type": "SingleEnemy",
+      "power": 120,
+      "break_damage": 1,
+      "timeline_delay": 100,
+      "effects": [
+        {
+          "type": "ApplyStatus",
+          "status_id": "st_burn",
+          "chance": 0.3
+        }
+      ],
+      "animation": "anim_cast_fireball"
+    }
+  },
+  {
+    "path": "loot/loot_mecha_soldier.json",
+    "source": "战斗流程与环境.md",
+    "type": "loot",
+    "data": {
+      "enemy_id": "enemy_mecha_01",
+      "fixed_drops": [
+        {
+          "item_id": "mat_scrap_metal",
+          "count": 1
+        }
+      ],
+      "conditional_drops": [
+        {
+          "condition": "KillElement_Fire",
+          "item_id": "mat_burnt_circuit",
+          "chance": 0.8
+        },
+        {
+          "condition": "KillState_Break",
+          "item_id": "mat_core_fragment",
+          "chance": 0.5
+        }
+      ],
+      "random_drops": [
+        {
+          "item_id": "potion_hp_small",
+          "chance": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "path": "Scene_Config.json",
+    "source": "世界架构.md",
+    "type": "Scene_Config.json",
+    "data": {
+      "scene_id": "Map_Forest_01",
+      "scene_type": "Road",
+      "portals": [
+        {
+          "id": "Portal_West",
+          "trigger_collider": "Box_01",
+          "target_scene": "Town_Starter",
+          "target_portal": "Portal_East_Gate"
+        },
+        {
+          "id": "Portal_East",
+          "trigger_collider": "Box_02",
+          "target_scene": "Map_Forest_02",
+          "target_portal": "Portal_West"
+        }
+      ]
+    }
+  },
+  {
+    "path": "shops/shop_weapon_town1.json",
+    "source": "NPC与交互.md",
+    "type": "shops",
+    "data": {
+      "shop_id": "shop_weapon_01",
+      "currency": "gold",
+      "buy_rate": 1,
+      "sell_rate": 0.5,
+      "inventory": [
+        {
+          "item_id": "sword_iron",
+          "stock": -1,
+          "req_level": 1
+        },
+        {
+          "item_id": "potion_hp",
+          "stock": 10,
+          "discount": 0.8
+        }
+      ]
+    }
+  },
+  {
+    "path": "npcs/npc_town_01.json",
+    "source": "地图指令与探索技能.md",
+    "type": "npcs",
+    "data": {
+      "npc_id": "npc_merchant_01",
+      "name": "旅行商人",
+      "location": "town_qinglu",
+      "actions": {
+        "scrutinize": {
+          "required_level": 5,
+          "reward_info": "info_discount_coupon"
+        },
+        "pickpocket": {
+          "difficulty_rating": 30,
+          "loot_table": "loot_merchant_pockets",
+          "fail_reputation_loss": 20
+        },
+        "challenge": {
+          "enemy_id": "enemy_merchant_guard",
+          "win_reward": "weapon_hidden_dagger"
+        }
+      }
+    }
+  },
+  {
+    "path": "recipes/recipe_potion_hp.json",
+    "source": "合成与改造.md",
+    "type": "recipes",
+    "data": {
+      "id": "rcp_potion_hp_medium",
+      "category": "Alchemy",
+      "output": {
+        "item_id": "potion_hp_medium",
+        "count": 1
+      },
+      "crit_output": {
+        "item_id": "potion_hp_medium",
+        "count": 2
+      },
+      "base_crit_rate": 0.1,
+      "unlock_req": {
+        "type": "RecipeItem",
+        "id": "blueprint_alchemy_adv"
+      },
+      "cost": {
+        "gold": 200,
+        "items": [
+          {
+            "id": "mat_herb_green",
+            "count": 3
+          },
+          {
+            "id": "mat_water_pure",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "path": "items/item_potion_01.json",
+    "source": "物品与道具.md",
+    "type": "items",
+    "data": {
+      "id": "item_potion_hp_small",
+      "type": "Consumable",
+      "name": "急救安瓿",
+      "price": 50,
+      "stack_limit": 99,
+      "effects": [
+        {
+          "type": "HealHP",
+          "value": 30,
+          "is_percentage": true
+        }
+      ],
+      "description": "便携式蒸汽注射器，恢复30%生命值。"
+    }
+  },
+  {
+    "path": "ui_config.json",
+    "source": "UI系统.md",
+    "type": "ui_config.json",
+    "data": {
+      "theme": "Steampunk_Jade",
+      "colors": {
+        "highlight": "#FFD700",
+        "normal": "#C0C0C0",
+        "disabled": "#505050",
+        "danger": "#FF4500"
+      },
+      "sounds": {
+        "hover": "sfx_ui_gear_tick",
+        "confirm": "sfx_ui_jade_click",
+        "cancel": "sfx_ui_paper_flip"
+      }
+    }
+  }
+]
